@@ -71,7 +71,7 @@ The public version does not remove jobs based on any individual's identity or ap
    - **Undergraduate-only**: ✅ = explicitly for undergraduates; graduate students should confirm eligibility first.
    - **Driver's license**: ✅ required = must already have one; 🟡 can obtain after hire.
    - **Food handler permit**: relatively easy to get (a short online course + small fee); many jobs allow you to obtain it after hire (🟡).
-   - **Experience**: ✅ = explicit years of experience required; "education may substitute for experience" still needs your own judgment.
+   - **Experience**: ✅ = explicit years of experience required; but many "experience required" jobs are satisfiable with two years of higher education in any major (1 year of education substitutes for 2 years of experience) — though some imply a matching major, which you must judge yourself.
    - **Extra requirements**: hard requirements from the posting text (language, certificates, degree, software, physical, age, etc.).
    - **Job description**: what the job actually does, in plain language — curated in `data/job-descriptions.json`.
 5. **Two dates**: open date and close date. A posting that says it is closed should be skipped even if its close date hasn't passed (see #2).

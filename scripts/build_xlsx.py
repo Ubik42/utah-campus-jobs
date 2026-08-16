@@ -273,7 +273,8 @@ def build_manual_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]]) -> None:
         ("❌ 未发现明确要求", "仅表示自动规则没有识别到，不是学校确认没有。"),
         ("❌ 本科生限定 = 否", "表示没有发现明确限定，不代表研究生一定符合。"),
         ("✅ 页面明确关闭", "正文写明不再接受申请，即使截止日期在未来也先跳过。"),
-        ("教育折抵经验", "仍需结合专业和职位给出的折抵公式判断。"),
+        ("需要经验 ≠ 硬门槛", "很多写着「需要经验」的岗位，上过两年高等教育（任意专业）通常就能满足；有些岗位的语境暗示需要专业对口，需自己判断。"),
+        ("食品证", "食品处理员许可证很好获得：线上几小时课程 + 少量费用，很多岗位允许入职后再考。"),
         ("翻译", "完整中文由 AI 辅助生成；申请前以英文原文为准。"),
     ]
     for label, desc in notes:
@@ -331,6 +332,15 @@ def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: s
     _link_title(ws, ordered, title_col=2)
     ws.auto_filter.ref = f"A4:{ws.cell(row=ws.max_row, column=len(headers)).coordinate}"
     _set_widths(ws, [(1, 6), (2, 22), (3, 40), (4, 20), (5, 14), (6, 10), (7, 11), (8, 40)])
+
+    note_row = ws.max_row + 2
+    ws.merge_cells(start_row=note_row, start_column=1, end_row=note_row, end_column=len(headers))
+    note = ws.cell(
+        row=note_row, column=1,
+        value="💡 很多写着「需要经验」的岗位，上过两年高等教育（任意专业）通常就能满足（1 年高等教育可折抵 2 年相关工作经验）；有些岗位的语境暗示需要专业对口，需自己判断。食品处理员许可证（Food Handler Permit）很好获得：线上几小时课程 + 少量费用，很多岗位允许入职后再考。",
+    )
+    note.font = Font(color="808080", size=9)
+    note.alignment = Alignment(wrap_text=True, vertical="top")
 
 
 def main() -> None:
