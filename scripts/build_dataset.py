@@ -127,7 +127,11 @@ def parse_hours(value: str) -> tuple[float | None, float | None]:
     if not numbers:
         return None, None
     normalized = value.casefold()
+    if "or less" in normalized or "or fewer" in normalized:
+        return 0.0, numbers[0]
     if "up to" in normalized or "maximum" in normalized or re.search(r"\bmax\.?\b", normalized):
+        if len(numbers) >= 2:
+            return numbers[0], numbers[1]
         return 0.0, numbers[0]
     if len(numbers) == 1:
         return numbers[0], numbers[0]
@@ -222,10 +226,11 @@ def load_jsonl(path: Path) -> dict[str, dict[str, Any]]:
     return result
 
 
-def build_records(raw_path: Path, translations_path: Path, departments_path: Path) -> tuple[list[dict[str, Any]], str]:
+def build_records(raw_path: Path, translations_path: Path, departments_path: Path, extra_requirements_path: Path) -> tuple[list[dict[str, Any]], str]:
     raw = json.loads(raw_path.read_text(encoding="utf-8"))
     translations = load_jsonl(translations_path)
     departments = json.loads(departments_path.read_text(encoding="utf-8"))
+    extra_requirements = json.loads(extra_requirements_path.read_text(encoding="utf-8"))
     jobs = {job["guid"]: job for response in raw["responses"] for job in response.get("jobs", [])}
     part_time = [job for job in jobs.values() if job.get("job_type") == "Part Time"]
     records: list[dict[str, Any]] = []
@@ -321,6 +326,7 @@ def build_records(raw_path: Path, translations_path: Path, departments_path: Pat
             "special_instructions_zh": strip_shared_additional_information_zh(translation.get("special_instructions_zh", "")),
             "special_instructions_en": clean_text(fields.get("Special Instructions Summary")),
             "type_of_recruitment": clean_text(fields.get("Type of Recruitment")),
+            "extra_requirements": extra_requirements.get(guid, ""),
             "source_updated_at": job.get("date_updated"),
         }
         records.append(record)
@@ -421,11 +427,12 @@ def main() -> None:
     parser.add_argument("--raw", type=Path, default=root / "data/raw/jobsyn-campus-2026-08-16.json")
     parser.add_argument("--translations", type=Path, default=root / "data/translations.zh.jsonl")
     parser.add_argument("--departments", type=Path, default=root / "data/department-names.zh.json")
+    parser.add_argument("--extra-requirements", type=Path, default=root / "data/extra-requirements.json")
     parser.add_argument("--json-output", type=Path, default=root / "data/jobs.zh.json")
     parser.add_argument("--markdown-output", type=Path, default=root / "jobs.zh.md")
     args = parser.parse_args()
 
-    records, fetched_at = build_records(args.raw, args.translations, args.departments)
+    records, fetched_at = build_records(args.raw, args.translations, args.departments, args.extra_requirements)
     args.json_output.write_text(
         json.dumps(
             {

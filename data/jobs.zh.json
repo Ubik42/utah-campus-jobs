@@ -49,6 +49,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-08T23:53:41Z"
     },
     {
@@ -97,6 +98,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-08T23:53:42Z"
     },
     {
@@ -145,6 +147,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-14T23:48:26Z"
     },
     {
@@ -193,6 +196,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T23:50:13Z"
     },
     {
@@ -241,6 +245,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "Internal to the University",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-12T23:47:15Z"
     },
     {
@@ -289,6 +294,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-21T23:48:59Z"
     },
     {
@@ -337,6 +343,7 @@
       "special_instructions_zh": "此招聘信息已关闭，不再接受申请。",
       "special_instructions_en": "This posting is closed and is no longer accepting applications.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-29T16:00:11Z"
     },
     {
@@ -385,6 +392,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需熟悉 Jamf Pro / SCCM，会脚本（Bash/PowerShell/Python/C/C++）",
       "source_updated_at": "2026-08-11T17:47:52Z"
     },
     {
@@ -433,6 +441,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "能提举 25 磅、爬梯凳",
       "source_updated_at": "2026-07-15T19:49:41Z"
     },
     {
@@ -481,6 +490,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需会用 Sony a74 相机、Adobe 全家桶（Pr/Ps/Lr）",
       "source_updated_at": "2026-08-03T06:47:51Z"
     },
     {
@@ -529,6 +539,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "能提举 50 磅、走崎岖地形",
       "source_updated_at": "2026-07-09T23:50:44Z"
     },
     {
@@ -577,6 +588,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-22T19:50:09Z"
     },
     {
@@ -625,6 +637,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "年满 21 岁、需酒类服务证",
       "source_updated_at": "2026-06-30T17:53:16Z"
     },
     {
@@ -641,7 +654,7 @@
       "priority_review_date": null,
       "explicitly_closed_in_posting_text": false,
       "standard_hours_text": "4 hours per week or less",
-      "minimum_weekly_hours": 4.0,
+      "minimum_weekly_hours": 0.0,
       "maximum_weekly_hours": 4.0,
       "hours_group": "最低工时 ≤ 10 小时或未提供",
       "pay_rate_text": "$16.00/h",
@@ -673,6 +686,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-09T19:53:30Z"
     },
     {
@@ -721,6 +735,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-09T19:53:28Z"
     },
     {
@@ -737,9 +752,9 @@
       "priority_review_date": null,
       "explicitly_closed_in_posting_text": false,
       "standard_hours_text": "16 hours per week or less",
-      "minimum_weekly_hours": 16.0,
+      "minimum_weekly_hours": 0.0,
       "maximum_weekly_hours": 16.0,
-      "hours_group": "最低工时 > 10 小时",
+      "hours_group": "最低工时 ≤ 10 小时或未提供",
       "pay_rate_text": "$18.00/h",
       "minimum_hourly_pay": 18.0,
       "maximum_hourly_pay": 18.0,
@@ -769,6 +784,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-05-28T23:49:09Z"
     },
     {
@@ -817,6 +833,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-29T17:53:14Z"
     },
     {
@@ -865,6 +882,7 @@
       "special_instructions_zh": "可变工作时间安排，包括部分晚间和周末时段。",
       "special_instructions_en": "Variable work schedule to include some evening and weekend hours.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-05-07T17:50:07Z"
     },
     {
@@ -913,6 +931,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-29T23:50:28Z"
     },
     {
@@ -961,6 +980,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-06T17:50:16Z"
     },
     {
@@ -1009,6 +1029,7 @@
       "special_instructions_zh": "申请时，请准备一份简历和求职信。求职信无需冗长或正式，但应包含您对该职位感兴趣的原因、您希望在该职位上如何成长，以及您能为团队协作环境带来何种态度和技能。\n\n我们很高兴扩展后台团队，并期待与符合条件的候选人进一步讨论该职位。如有其他问题，请联系制作经理rosemary.jones@utah.edu。",
       "special_instructions_en": "To apply, please prepare a resume and cover letter. Your cover letter does not need to be lengthy or formal but should include why you are interested in the position, how you hope to grow in this position, and what kind of attitude and skills you bring to a team-focused environment.\n\nWe are excited to expand our backstage team and look forward to discussing the role in further detail with qualified candidates. For additional questions, please reach the Production Manager at rosemary.jones@utah.edu",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-06T23:50:15Z"
     },
     {
@@ -1057,6 +1078,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-07T23:48:14Z"
     },
     {
@@ -1105,6 +1127,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-07T23:48:13Z"
     },
     {
@@ -1153,6 +1176,7 @@
       "special_instructions_zh": "这是一个无福利职位。薪资基于课堂注册人数，每门课程保证底薪4,200美元，并随学生人数逐步增加。\n\n附加信息\n\n该",
       "special_instructions_en": "This is a non-benefitted position. Salary is based on classroom enrollment with a guaranteed base of $4,200 per course and increases incrementally per pupil.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "韩语接近母语级",
       "source_updated_at": "2026-07-09T17:53:23Z"
     },
     {
@@ -1201,6 +1225,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-30T06:47:16Z"
     },
     {
@@ -1249,6 +1274,7 @@
       "special_instructions_zh": "此职位的面试将在犹他大学现场进行。请在优先审核日期2026年7月30日下午5:00前申请，以确保您收到招聘活动的相关信息。",
       "special_instructions_en": "Interviews for this role(s) will be completed in-person at the University of Utah. Please apply by the priority review date of July 30th, 2026 at 5:00pm to ensure that you receive information for the hiring event.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-20T17:50:11Z"
     },
     {
@@ -1297,6 +1323,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-30T23:50:14Z"
     },
     {
@@ -1345,6 +1372,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-01T15:52:31Z"
     },
     {
@@ -1393,6 +1421,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需通过 BCI 背景调查",
       "source_updated_at": "2026-06-09T23:49:51Z"
     },
     {
@@ -1441,6 +1470,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-07T17:50:14Z"
     },
     {
@@ -1489,6 +1519,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "能提举 60 磅、需美国驾照",
       "source_updated_at": "2026-05-29T17:53:36Z"
     },
     {
@@ -1537,6 +1568,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-18T23:53:08Z"
     },
     {
@@ -1585,6 +1617,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T15:54:09Z"
     },
     {
@@ -1633,6 +1666,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T15:54:10Z"
     },
     {
@@ -1681,6 +1715,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-23T15:54:08Z"
     },
     {
@@ -1729,6 +1764,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需犹他州 LEO 认证+在职执法人员、美国公民/合法永久居民",
       "source_updated_at": "2026-05-19T17:53:15Z"
     },
     {
@@ -1777,6 +1813,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-31T15:56:11Z"
     },
     {
@@ -1825,6 +1862,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-01T19:53:29Z"
     },
     {
@@ -1873,6 +1911,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-29T23:49:08Z"
     },
     {
@@ -1921,6 +1960,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T17:50:10Z"
     },
     {
@@ -1969,6 +2009,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-13T23:48:06Z"
     },
     {
@@ -2017,6 +2058,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-16T15:54:07Z"
     },
     {
@@ -2065,6 +2107,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-05-27T19:49:47Z"
     },
     {
@@ -2113,6 +2156,7 @@
       "special_instructions_zh": "请提交一份数字作品集：\n\n包括您的设计技能和相关文案写作技能的样本。欢迎提供Instagram链接和写作示例。\n\n请提交一封求职信（最多1页），回答以下问题：\n\n1. 您如何利用社交媒体，结果如何？\n\n2. 您有哪些技能或经验能够支持您胜任此职位？\n\n3. 查看多学科设计 >> uofudesign",
       "special_instructions_en": "Please submit a digital portfolio:\n\nInclude samples of your design skills and relevant caption writing skills. Instagram links and writing examples are welcomed.\n\nPlease submit a cover letter (1 pg max) answering the following questions:\n\n1. How have you utilized social media and what were the outcomes?\n\n2. What skills or experiences do you have that will support you in this role?\n\n3. Taking a look at Multi-Disciplinary Design >> uofudesign <",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-14T06:46:23Z"
     },
     {
@@ -2161,6 +2205,7 @@
       "special_instructions_zh": "你将被要求展示你使用Adobe应用程序创建的项目/作品。",
       "special_instructions_en": "You will be asked to show projects/work you have created using Adobe applications.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需精通至少 4 款 Adobe 应用",
       "source_updated_at": "2026-07-10T19:50:07Z"
     },
     {
@@ -2209,6 +2254,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-17T19:53:43Z"
     },
     {
@@ -2257,6 +2303,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-23T17:53:27Z"
     },
     {
@@ -2305,6 +2352,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-23T17:53:26Z"
     },
     {
@@ -2353,6 +2401,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-07T17:50:15Z"
     },
     {
@@ -2401,6 +2450,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-08T23:48:20Z"
     },
     {
@@ -2449,6 +2499,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-29T23:49:09Z"
     },
     {
@@ -2497,6 +2548,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-02T19:53:21Z"
     },
     {
@@ -2545,6 +2597,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-28T17:50:10Z"
     },
     {
@@ -2593,6 +2646,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需 CPR/急救证，能抱举幼儿",
       "source_updated_at": "2026-05-21T23:49:28Z"
     },
     {
@@ -2641,6 +2695,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "入职 60 天内需食品证、TB 检测、BCI 背景调查、急救培训",
       "source_updated_at": "2026-05-21T23:49:29Z"
     },
     {
@@ -2689,6 +2744,7 @@
       "special_instructions_zh": "请附上您的秋季课程表副本",
       "special_instructions_en": "Please include a copy of your Fall Schedule",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T17:50:09Z"
     },
     {
@@ -2737,6 +2793,7 @@
       "special_instructions_zh": "在求职信中，鼓励参与者阐述他们为何有兴趣为影响与繁荣中心（Impact & Prosperity Epicenter）工作。",
       "special_instructions_en": "In their cover letter, participants are encouraged to articulate why they are interested in working for the Impact & Prosperity Epicenter.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-10T19:48:11Z"
     },
     {
@@ -2785,6 +2842,7 @@
       "special_instructions_zh": "第一天将是2027年春季学期的开始——1月11日星期一（或那一周的某个时间，具体取决于您的日程安排）。",
       "special_instructions_en": "First day would be the start of the spring 2027 semester – Monday, January 11th (or some time that week, depending on your schedule).",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T19:50:17Z"
     },
     {
@@ -2833,6 +2891,7 @@
       "special_instructions_zh": "请简要说明（250字以内）您为何对该职位感兴趣，并描述您适合该职位的优势。请列出您在2026年秋季学期期间，每周一至周五（我们办公时间为上午8点至下午5点）每天可工作的时间段。",
       "special_instructions_en": "Please write a brief explanation (250 words or less) of why you are interested in this job and describe your strengths that would be a good fit for this job. Please include a list of the hours that you are available to work each day of the week (Monday through Friday between our office hours of 8am to 5pm) during the Fall 2026 Semester.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-29T17:50:13Z"
     },
     {
@@ -2881,6 +2940,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需在读平面设计/插画专业、有 Adobe 经验",
       "source_updated_at": "2026-07-09T19:53:29Z"
     },
     {
@@ -2929,6 +2989,7 @@
       "special_instructions_zh": "需要5位专业推荐人，所需信息：姓名、关系、公司、电子邮件和电话号码",
       "special_instructions_en": "Required 5 professional references, information requested: First and Last Name, Relation, Company, Email and Phone Number",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需本科学历 + 1 年相关经验",
       "source_updated_at": "2026-08-06T23:50:15Z"
     },
     {
@@ -2977,6 +3038,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-11T19:48:43Z"
     },
     {
@@ -3025,6 +3087,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-01T23:53:50Z"
     },
     {
@@ -3073,6 +3136,7 @@
       "special_instructions_zh": "该职位仅提供给联邦勤工助学（Federal Work-Study）获奖者。",
       "special_instructions_en": "This position will only be offered to Federal Work-Study Awardees.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "能提举 50 磅、接触危险材料",
       "source_updated_at": "2026-07-31T17:50:16Z"
     },
     {
@@ -3121,6 +3185,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需 CPR 认证（可入职一月内取得）",
       "source_updated_at": "2026-07-08T23:53:40Z"
     },
     {
@@ -3169,6 +3234,7 @@
       "special_instructions_zh": "申请人必须提交简历以及作品集或3-5个他们拍摄和编辑的视频内容示例的链接。示例可包括为社交媒体、课程、学生组织、自由职业项目或个人创意作品创作的内容。",
       "special_instructions_en": "Applicants must submit a resume along with a portfolio or links to 3–5 examples of video content they have filmed and edited. Examples may include work created for social media, classes, student organizations, freelance projects, or personal creative work.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需会视频剪辑（Pr/达芬奇等）、DSLR/微单",
       "source_updated_at": "2026-08-06T19:50:24Z"
     },
     {
@@ -3217,6 +3283,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T06:47:51Z"
     },
     {
@@ -3265,6 +3332,7 @@
       "special_instructions_zh": "申请人可以选择上传摄影作品样本和/或过往社交媒体作品集。",
       "special_instructions_en": "Applicants may choose to upload photography samples and/or a portfolio of prior social media work.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-27T06:50:09Z"
     },
     {
@@ -3313,6 +3381,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-29T19:50:24Z"
     },
     {
@@ -3361,6 +3430,7 @@
       "special_instructions_zh": "在本申请的文档部分，查找“申请人文档 – 其他”。请提交以下之一：\n- 一段短视频（3–5分钟），或\n- 3–5张幻灯片，附简短书面回答\n\n我们不要求有先前经验。我们感兴趣的是你的兴趣、价值观和学习意愿。在你的幻灯片或视频中，请回答以下问题：\n\n介绍与动机\n\n1. 是什么吸引你来到校园健康中心工作，你对支持学生福祉的哪些方面感兴趣？\n\n2. 你对健康交流大使角色有何兴趣，你如何看待自己为一个友好、低门槛的资源空间做出贡献？\n\n兴趣领域\n\n简要分享你对以下任何领域的兴趣或好奇心（不要求经验）：\n- 健康与健康素养\n- 住房安全\n- 食物获取\n- 环境可持续性\n- 社区关怀模式",
       "special_instructions_en": "In the documents section of this application look for “Applicant document – other”. Please submit one of the following:\n- A short video (3–5 minutes), or\n- 3–5 slides with brief written responses\n\nThere is no expectation of prior experience. We are interested in your interests, values, and willingness to learn. In your slides or video, please answer the following questions:\n\nIntroduction & Motivation\n\n1. What draws you to working at the Center for Campus Wellness, and what interests you about supporting student well-being?\n\n2. What interests you about the Wellness Exchange Ambassador role, and how do you see yourself contributing to a welcoming, low-barrier resource space?\n\nAreas of Interest\n\nBriefly share your interest or curiosity in any of the following areas (experience not required):\n- Wellness and health literacy\n- Housing security\n- Food access\n- Environmental sustainability\n- Community care models",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-14T23:48:26Z"
     },
     {
@@ -3409,6 +3479,7 @@
       "special_instructions_zh": "在本申请的“申请人文件 – 其他”部分，请提交以下内容：\n- 一段简短的视频或图形介绍，说明你自己以及你为什么想为校园健康中心工作。\n- 创作一个原创图形，推广一个校园健康主题（例如，压力管理、睡眠、物质使用意识、人际联系等）。为Instagram设计，并包含包含替代文本的标题。",
       "special_instructions_en": "In the “Applicant Document – Other” section of this application, please submit the following:\n- A short video or graphic introducing yourself and sharing why you want to work for the Center for Campus Wellness.\n- Create one original graphic promoting a campus wellness topic (e.g., stress management, sleep, substance use awareness, connection, etc.). Design for Instagram and include a caption including alt text.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-22T23:50:07Z"
     },
     {
@@ -3457,6 +3528,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T23:50:12Z"
     },
     {
@@ -3505,6 +3577,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需通过安全审查（security clearance）",
       "source_updated_at": "2026-08-11T23:47:42Z"
     },
     {
@@ -3553,6 +3626,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-05-20T23:53:07Z"
     },
     {
@@ -3601,6 +3675,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-11T17:47:52Z"
     },
     {
@@ -3649,6 +3724,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-23T17:50:10Z"
     },
     {
@@ -3697,6 +3773,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-09T20:49:47Z"
     },
     {
@@ -3745,6 +3822,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-09T23:50:43Z"
     },
     {
@@ -3793,6 +3871,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-12T19:49:05Z"
     },
     {
@@ -3841,6 +3920,7 @@
       "special_instructions_zh": "此招聘信息已关闭，不再接受申请。",
       "special_instructions_en": "This posting is closed and is no longer accepting applications.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "GPA ≥ 3.0",
       "source_updated_at": "2026-08-05T15:54:11Z"
     },
     {
@@ -3889,6 +3969,7 @@
       "special_instructions_zh": "要申请此职位，请提供一封说明您与项目相关经验和专长的求职信，以及一份简历或履历。我们将立即开始面试，并持续招聘直至职位招满。",
       "special_instructions_en": "To apply to this position, please provide a cover letter explaining your experience and expertise related to the project and a resume or CV. We will begin interviewing immediately and will continue until the position is filled.",
       "type_of_recruitment": "Internal to the University",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-14T23:48:26Z"
     },
     {
@@ -3937,6 +4018,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-13T23:49:21Z"
     },
     {
@@ -3985,6 +4067,7 @@
       "special_instructions_zh": "请提供课程表及/或可用时间列表。",
       "special_instructions_en": "Please provide class schedule and/or list of availability.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-10T15:55:30Z"
     },
     {
@@ -4033,6 +4116,7 @@
       "special_instructions_zh": "请附上可用时间列表和/或课程表。",
       "special_instructions_en": "Please include a list of availability and/or a class schedule.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-07T23:48:13Z"
     },
     {
@@ -4081,6 +4165,7 @@
       "special_instructions_zh": "该职位面向获得勤工助学（Work-Study）资助的学生开放。\n\n请附上可用时间列表和/或课程表。",
       "special_instructions_en": "This position is open to work study awarded students.\n\nPlease include a list of availability and/or a class schedule.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需通过背景调查",
       "source_updated_at": "2026-08-13T15:54:36Z"
     },
     {
@@ -4129,6 +4214,7 @@
       "special_instructions_zh": "根据内部和外部事件的需要进行安排。工作时间不固定，每周可在0至10小时之间变动。",
       "special_instructions_en": "Scheduled as needed based upon internal and external events. Hours are variable and can range from 0 to 10 weekly.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "能提举 50 磅",
       "source_updated_at": "2026-08-12T15:54:18Z"
     },
     {
@@ -4177,6 +4263,7 @@
       "special_instructions_zh": "承诺：这是一个即时岗位，预计开始日期为8月底/9月初，并于2026年12月结束。实习生将在研究探索数字参与团队的监督下，每周远程工作最多10小时。",
       "special_instructions_en": "Commitment: This is an immediate placement with an expected start date of late August/early September and concludes in December 2026. Intern will work remotely up to 10 hours per week, under the supervision of the Research Quest Digital Engagement Team.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需本科学历+2年经验 或 硕士",
       "source_updated_at": "2026-08-04T23:48:29Z"
     },
     {
@@ -4225,6 +4312,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-08T06:50:13Z"
     },
     {
@@ -4273,6 +4361,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-12T06:45:40Z"
     },
     {
@@ -4321,6 +4410,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需通过背景调查",
       "source_updated_at": "2026-08-13T06:45:56Z"
     },
     {
@@ -4369,6 +4459,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "Internal to the University",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-28T23:52:12Z"
     },
     {
@@ -4417,6 +4508,7 @@
       "special_instructions_zh": "我们欢迎具有非传统背景和通过其他途径达到本职位所需资格的申请人。如果您认为您的经验等同于所需资格，我们鼓励您申请。请务必在下方相应的招聘特定问题中标记“是”，以确保您的申请被接受。所有被接受的申请都将由我们的招聘委员会审核。",
       "special_instructions_en": "We welcome applicants with non-traditional backgrounds and alternative paths to achieving the required qualifications for this role. If you feel that your experience is equivalent to the required qualifications, you are encouraged to apply. Be sure to mark “yes” on the appropriate posting specific question below to ensure your application is accepted. ALL accepted applications will be reviewed by our hiring committee.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需本科学历、驾照",
       "source_updated_at": "2026-08-12T06:45:40Z"
     },
     {
@@ -4465,6 +4557,7 @@
       "special_instructions_zh": "请登录CIS并前往财务/财务援助部分查看您的财务援助状态。如果您尚未获得联邦勤工助学（Federal Work-Study）奖励，则请勿填写并提交此申请。在录用前，该雇主将确认您已获得本年度联邦勤工助学（Federal Work-Study）奖励。",
       "special_instructions_en": "Please login to CIS and go to the Finance/Financial Aid section to view your Financial Aid Status. If you have not received a Federal Work-Study Award, then do not complete and submit this application. Before hire, this employer will confirm that you have received a Federal Work-Study Award for the current year.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-20T19:50:07Z"
     },
     {
@@ -4513,6 +4606,7 @@
       "special_instructions_zh": "此招聘信息已关闭，不再接受申请。",
       "special_instructions_en": "This posting is closed and is no longer accepting applications.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-07T19:50:15Z"
     },
     {
@@ -4561,6 +4655,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-31T17:50:18Z"
     },
     {
@@ -4609,6 +4704,7 @@
       "special_instructions_zh": "请在申请中包含以下内容：\n- 简历\n- 一封表达您兴趣和资质的求职信\n- 一份写作样本\n- 三位专业推荐人，包括姓名、职务、所属机构和联系方式\n\n申请审核将立即开始，但申请将持续接受，直至该职位招满为止。",
       "special_instructions_en": "Please include the following with your application:\n- Resume\n- A cover letter expressing your interest and qualifications\n- One writing sample\n- Three professional references with names, titles, affiliations and contact information\n\nA review of applications will begin immediately, but applications will be accepted until the position is filled",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需社工硕士/博士在读，会 Mplus/SPSS/R",
       "source_updated_at": "2026-07-08T17:53:29Z"
     },
     {
@@ -4657,6 +4753,7 @@
       "special_instructions_zh": "此招聘信息已关闭，不再接受申请。",
       "special_instructions_en": "This posting is closed and is no longer accepting applications.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-14T19:50:47Z"
     },
     {
@@ -4705,6 +4802,7 @@
       "special_instructions_zh": "此职位仅面向犹他大学学生，且学生须在当前学年获得联邦勤工助学（Federal Work-Study）奖助。申请者须在申请前通过CIS的财务援助部分核实其联邦勤工助学资格。录用取决于当前联邦勤工助学奖助的确认。",
       "special_instructions_en": "This position is available only to University of Utah students who have been awarded a Federal Work-Study Award for the current academic year. Applicants must verify their Federal Work-Study eligibility through the Financial Aid section of CIS prior to applying. Employment is contingent upon confirmation of a current Federal Work-Study Award.",
       "type_of_recruitment": "Internal to the University",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-14T23:48:27Z"
     },
     {
@@ -4753,6 +4851,7 @@
       "special_instructions_zh": "此职位仅面向犹他大学学生，且学生须在当前学年获得联邦勤工助学（Federal Work-Study）奖助。申请者须在申请前通过CIS的财务援助部分核实其联邦勤工助学资格。录用取决于当前联邦勤工助学奖助的确认。",
       "special_instructions_en": "This position is available only to University of Utah students who have been awarded a Federal Work-Study Award for the current academic year. Applicants must verify their Federal Work-Study eligibility through the Financial Aid section of CIS prior to applying. Employment is contingent upon confirmation of a current Federal Work-Study Award.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-04T23:48:29Z"
     },
     {
@@ -4801,6 +4900,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需通过 BCI 背景调查、州驾驶考试",
       "source_updated_at": "2026-07-09T23:50:44Z"
     },
     {
@@ -4849,6 +4949,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-29T17:50:12Z"
     },
     {
@@ -4897,6 +4998,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-10T23:49:29Z"
     },
     {
@@ -4945,6 +5047,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-10T23:49:29Z"
     },
     {
@@ -4993,6 +5096,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-10T23:49:29Z"
     },
     {
@@ -5041,6 +5145,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-10T23:49:29Z"
     },
     {
@@ -5057,8 +5162,8 @@
       "priority_review_date": "2026-08-17",
       "explicitly_closed_in_posting_text": false,
       "standard_hours_text": "10 (up to 19)",
-      "minimum_weekly_hours": 0.0,
-      "maximum_weekly_hours": 10.0,
+      "minimum_weekly_hours": 10.0,
+      "maximum_weekly_hours": 19.0,
       "hours_group": "最低工时 ≤ 10 小时或未提供",
       "pay_rate_text": "$13.50+ per hour",
       "minimum_hourly_pay": 13.5,
@@ -5089,6 +5194,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T15:54:10Z"
     },
     {
@@ -5137,6 +5243,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-03T17:50:11Z"
     },
     {
@@ -5185,6 +5292,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-04T17:50:18Z"
     },
     {
@@ -5233,6 +5341,7 @@
       "special_instructions_zh": "此职位招聘仅面向已获得2026-2027学年联邦勤工助学（Federal Work-Study）奖学金的犹他大学学生。请登录CIS查看您的助学金状态。如果您未获得联邦勤工助学奖学金，请勿填写或提交此申请。",
       "special_instructions_en": "This job posting is only available to University of Utah students who have been awarded a Federal Work-Study Award for the 2026-2027 academic year. Please log in to CIS and view your Financial Aid Status. If you have not received a Federal Work-Study Award, do not complete or submit this application.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-29T19:50:24Z"
     },
     {
@@ -5281,6 +5390,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需 TESOL 硕士 + TESOL 证书",
       "source_updated_at": "2026-08-13T17:47:49Z"
     },
     {
@@ -5329,6 +5439,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-20T17:50:10Z"
     },
     {
@@ -5377,6 +5488,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-07T23:53:29Z"
     },
     {
@@ -5425,6 +5537,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-06-08T23:48:20Z"
     },
     {
@@ -5473,6 +5586,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-13T23:48:05Z"
     },
     {
@@ -5521,6 +5635,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需 CDL 驾照（提供付费培训）",
       "source_updated_at": "2026-07-17T15:54:07Z"
     },
     {
@@ -5569,6 +5684,7 @@
       "special_instructions_zh": "本年度勤工助学（Work-Study）奖励。请登录CIS并前往财务/经济援助部分查看您的经济援助状态。如果您尚未获得联邦勤工助学（Federal Work-Study）奖励，则请勿填写并提交此申请。在录用前，该雇主将确认您已获得本年度联邦勤工助学（Federal Work-Study）奖励。",
       "special_instructions_en": "Work-Study Award for the current year. Please login to CIS and go to the Finance/Financial Aid section to view your Financial Aid Status. If you have not received a Federal Work-Study Award, then do not complete and submit this application. Before hire, this employer will confirm that you have received a Federal Work-Study Award for the current year.",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需通过 BCI 背景调查",
       "source_updated_at": "2026-08-05T17:50:11Z"
     },
     {
@@ -5617,6 +5733,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-12T15:54:18Z"
     },
     {
@@ -5665,6 +5782,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "需 2 年剧场舞台技术经验",
       "source_updated_at": "2026-08-12T15:54:18Z"
     },
     {
@@ -5713,6 +5831,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-13T17:53:12Z"
     },
     {
@@ -5761,6 +5880,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-07-30T23:50:15Z"
     },
     {
@@ -5809,6 +5929,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-05T23:50:15Z"
     },
     {
@@ -5857,6 +5978,7 @@
       "special_instructions_zh": "",
       "special_instructions_en": "",
       "type_of_recruitment": "External Posting",
+      "extra_requirements": "",
       "source_updated_at": "2026-08-10T23:49:28Z"
     }
   ]

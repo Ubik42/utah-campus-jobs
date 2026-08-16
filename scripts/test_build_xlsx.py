@@ -43,6 +43,9 @@ class XlsxTests(unittest.TestCase):
         self.assertEqual(headers[2], "中文职位")
         self.assertEqual(headers[-2:], ["英文部门", "英文职位"])
         self.assertIn("GUID", headers)
+        self.assertIn("额外要求", headers)
+        self.assertNotIn("优先审查日", headers)
+        self.assertNotIn("酒类服务证书", headers)
         self.assertIsNotNone(ws.auto_filter.ref)
 
     def test_status_emoji_mapping(self) -> None:

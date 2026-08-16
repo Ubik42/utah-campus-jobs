@@ -25,6 +25,8 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(build_dataset.parse_hours("0-19"), (0.0, 19.0))
         self.assertEqual(build_dataset.parse_hours("15"), (15.0, 15.0))
         self.assertEqual(build_dataset.parse_hours("Up to 10 hours"), (0.0, 10.0))
+        self.assertEqual(build_dataset.parse_hours("16 hours per week or less"), (0.0, 16.0))
+        self.assertEqual(build_dataset.parse_hours("10 (up to 19)"), (10.0, 19.0))
 
     def test_close_date_is_inclusive(self) -> None:
         target = build_dataset.date(2026, 8, 20)

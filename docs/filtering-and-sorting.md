@@ -33,7 +33,7 @@ Jobsyn 页面把大量小标题放在相近层级，连续阅读不方便。整�
 
 ### 日期
 
-Open Date、Close Date 和 Priority Review Date 分列保存。Priority Review Date 不是最终截止日期。正文若明确写明 `This posting is closed and is no longer accepting applications`，另设“页面明确关闭”标签。
+Open Date、Close Date 分列展示；Priority Review Date 仍在 JSON 中保存但不在表格展示（它不是最终截止日期）。正文若明确写明 `This posting is closed and is no longer accepting applications`，另设“页面明确关闭”标签。
 
 表格不预设某个申请日期。使用者可以按自己的申请日筛选：开放日期不晚于申请日，截止日期不早于申请日，同时排除页面明确关闭的岗位。
 
@@ -41,7 +41,8 @@ Open Date、Close Date 和 Priority Review Date 分列保存。Priority Review D
 
 - 固定值 `15`：最低和最高工时都记为 15。
 - 范围 `0-19`、`8 to 12`：第一个数字为最低工时，第二个为最高工时。
-- `up to 10`、`maximum 10`：最低工时按 0，最高工时按 10。
+- `up to 10`、`maximum 10`、`10 hours or less`：最低工时按 0，最高工时按 10。
+- `10 (up to 19)`：最低 10、最高 19。
 - 无法解析或未提供：数值列留空，原文始终保留。
 
 `0-19` 的最低工时是 0，因此若按“最低工时不大于 10”筛选，它会被保留。

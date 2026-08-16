@@ -49,6 +49,19 @@ def _status_emoji(status: str) -> str:
     return _STATUS_EMOJI.get(status, status)
 
 
+_EMOJI_COLOR = {"✅": "FF1E7B1E", "🟡": "FFBF8F00", "❌": "FFC00000"}
+
+
+def _color_emoji_cells(ws: Worksheet, cols: Sequence[int]) -> None:
+    for row_idx in range(5, ws.max_row + 1):
+        for col in cols:
+            cell = ws.cell(row=row_idx, column=col)
+            if isinstance(cell.value, str):
+                color = _EMOJI_COLOR.get(cell.value)
+                if color:
+                    cell.font = Font(color=color)
+
+
 def _style_title(ws: Worksheet, ncols: int, title: str, subtitle: str) -> None:
     ws.merge_cells(start_row=1, start_column=1, end_row=1, end_column=ncols)
     ws.cell(row=1, column=1, value=title)
@@ -104,10 +117,10 @@ def build_search_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at:
     ws = wb.active
     ws.title = "岗位检索"
     headers = [
-        "序号", "中文部门", "中文职位", "开放日期", "截止日期", "优先审查日",
+        "序号", "中文部门", "中文职位", "开放日期", "截止日期",
         "每周标准工时", "最低周工时", "最高周工时", "薪资原文", "最低时薪", "最高时薪",
-        "Work-Study", "本科生限定", "驾照", "食品处理员许可证", "酒类服务证书",
-        "经验要求", "页面明确关闭", "班次", "Requisition Number", "GUID",
+        "Work-Study", "本科生限定", "驾照", "食品处理员许可证", "经验要求",
+        "额外要求", "页面明确关闭", "班次", "Requisition Number", "GUID",
         "英文部门", "英文职位",
     ]
     _style_title(ws, len(headers), "犹他大学 2026 Fall 校内兼职检索表",
@@ -117,29 +130,30 @@ def build_search_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at:
     for index, r in enumerate(jobs, 1):
         rows.append([
             index, r["department_zh"], r["title_zh"],
-            r["open_date"], r["close_date"], r["priority_review_date"],
+            r["open_date"], r["close_date"],
             r["standard_hours_text"], r["minimum_weekly_hours"], r["maximum_weekly_hours"],
             r["pay_rate_text"], r["minimum_hourly_pay"], r["maximum_hourly_pay"],
             _status_emoji(r["work_study_status"]),
             _status_emoji(_yes_no(r["undergraduate_only"])),
             _status_emoji(r["driver_license_status"]),
             _status_emoji(r["food_handler_status"]),
-            _status_emoji(r["alcohol_certificate_status"]),
             _status_emoji(r["experience_status"]),
+            r["extra_requirements"],
             _status_emoji(_yes_no(r["explicitly_closed_in_posting_text"])),
             r["shift"],
             r["requisition_number"], r["guid"],
             r["department_en"], r["title_en"],
         ])
-    _write_rows(ws, rows, wrap_cols={2, 3, 23, 24})
+    _write_rows(ws, rows, wrap_cols={2, 3, 17, 22, 23})
     _link_title(ws, jobs, title_col=3)
+    _color_emoji_cells(ws, cols=[12, 13, 14, 15, 16, 18])
     ws.auto_filter.ref = f"A4:{ws.cell(row=ws.max_row, column=len(headers)).coordinate}"
     _set_widths(ws, [
-        (1, 6), (2, 22), (3, 34), (4, 11), (5, 11), (6, 11),
-        (7, 14), (8, 10), (9, 10), (10, 12), (11, 9), (12, 9),
-        (13, 11), (14, 10), (15, 8), (16, 14), (17, 11),
-        (18, 10), (19, 11), (20, 10), (21, 13), (22, 34),
-        (23, 30), (24, 30),
+        (1, 6), (2, 22), (3, 34), (4, 11), (5, 11),
+        (6, 14), (7, 10), (8, 10), (9, 12), (10, 9), (11, 9),
+        (12, 11), (13, 10), (14, 8), (15, 14), (16, 10),
+        (17, 30), (18, 11), (19, 10), (20, 13), (21, 34),
+        (22, 30), (23, 30),
     ])
 
 
