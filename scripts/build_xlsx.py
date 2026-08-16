@@ -284,6 +284,21 @@ def build_manual_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]]) -> None:
     _set_widths(ws, [(1, 16), (2, 40), (3, 60), (4, 20), (5, 20), (6, 20)])
 
 
+def _short_text(text: str, limit: int = 60) -> str:
+    """取职位摘要第一句，作为省流版的简短工作内容。"""
+    if not text:
+        return ""
+    for sep in ("。", "\n", "！", "？"):
+        idx = text.find(sep)
+        if idx > 0:
+            text = text[:idx]
+            break
+    text = text.strip()
+    if len(text) > limit:
+        text = text[:limit].rstrip() + "…"
+    return text
+
+
 def _intl_flags(r: dict[str, Any]) -> str:
     flags: list[str] = []
     if r["driver_license_status"] == "明确要求/需核验":
@@ -304,7 +319,7 @@ def _intl_flags(r: dict[str, Any]) -> str:
 def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: str) -> None:
     """MEAE 国际学生省流版：排除必须联邦勤工助学（FWS）、仅限本科、已关闭、需公民身份的岗位。"""
     ws = wb.create_sheet("MEAE国际学生省流版")
-    headers = ["序号", "职位", "核心能力", "部门", "每周工时", "时薪", "截止日期", "注意"]
+    headers = ["序号", "职位", "核心能力", "工作内容", "部门", "每周工时", "时薪", "截止日期", "注意"]
     eligible = [
         r for r in jobs
         if r["work_study_status"] != "必需"
@@ -314,7 +329,7 @@ def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: s
     ]
     excluded = len(jobs) - len(eligible)
     _style_title(ws, len(headers), "MEAE 国际学生省流版",
-                 f"面向 MEAE 硕士国际学生（F-1）· 已排除 {excluded} 个必须勤工助学、仅限本科、已关闭或需公民身份的岗位 · 快照 {fetched_at}")
+                 f"面向 26Fall（2026 秋季学期）校内兼职 · 快照 {fetched_at[:10]} · 2026-08-17 及之后申请适用 · 已排除 {excluded} 个（勤工助学必需 / 仅限本科 / 已关闭 / 需公民身份）")
     _style_header(ws, headers)
     # 截止日期近的在前，未提供截止日期的排最后
     ordered = sorted(eligible, key=lambda r: (r["close_date"] is None, r["close_date"] or ""))
@@ -323,14 +338,14 @@ def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: s
         pay = r["minimum_hourly_pay"]
         pay_text = ("$%g" % pay) if pay is not None else (r["pay_rate_text"] or "")
         rows.append([
-            index, r["title_zh"], r["core_skills"], r["department_zh"],
+            index, r["title_zh"], r["core_skills"], _short_text(r["job_summary_zh"]), r["department_zh"],
             r["standard_hours_text"], pay_text, r["close_date"],
             _intl_flags(r),
         ])
-    _write_rows(ws, rows, wrap_cols={2, 3, 4, 8})
+    _write_rows(ws, rows, wrap_cols={2, 3, 4, 5, 9})
     _link_title(ws, ordered, title_col=2)
     ws.auto_filter.ref = f"A4:{ws.cell(row=ws.max_row, column=len(headers)).coordinate}"
-    _set_widths(ws, [(1, 6), (2, 26), (3, 20), (4, 20), (5, 14), (6, 10), (7, 11), (8, 40)])
+    _set_widths(ws, [(1, 6), (2, 24), (3, 18), (4, 40), (5, 20), (6, 14), (7, 10), (8, 11), (9, 40)])
 
 
 def main() -> None:
