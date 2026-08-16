@@ -38,7 +38,12 @@ class XlsxTests(unittest.TestCase):
         self.assertEqual(wb["岗位检索"].max_row, 4 + self.count)
         self.assertEqual(wb["完整中文"].max_row, 4 + self.count)
         self.assertEqual(wb["英文原文"].max_row, 4 + self.count)
-        eligible = sum(1 for r in self.jobs if r["work_study_status"] != "必需" and not r["undergraduate_only"])
+        eligible = sum(1 for r in self.jobs if (
+            r["work_study_status"] != "必需"
+            and not r["undergraduate_only"]
+            and not r["explicitly_closed_in_posting_text"]
+            and not r["requires_citizenship"]
+        ))
         self.assertEqual(wb["MEAE国际学生省流版"].max_row, 4 + eligible)
 
     def test_search_sheet_headers_and_filter(self) -> None:

@@ -23,7 +23,7 @@
 
 | 文件 | 内容 |
 | --- | --- |
-| `jobs.xlsx` | 推荐入口：岗位检索、完整中文、英文原文、使用说明四张表 |
+| `jobs.xlsx` | 推荐入口：岗位检索、完整中文、英文原文、MEAE国际学生省流版、使用说明五张表 |
 | `jobs.zh.md` | 按部门组织的 122 个岗位完整中文，附折叠英文原文 |
 | `data/jobs.zh.json` | 清洗后的完整双语结构化数据 |
 | `data/raw/jobsyn-campus-2026-08-16.json` | 招聘列表接口原始快照 |
@@ -81,6 +81,27 @@
 - [F-1 校内就业（犹他大学 ISSS）](https://isss.utah.edu/f-1-visa-program/employment/on-campus-employment/index.php)
 - [Federal Work-Study 基础说明](https://financialaid.utah.edu/types-of-aid/work-study/students/basics.php)
 - [2026–2027 Federal Work-Study 申请表](https://financialaid.utah.edu/forms/onbase/2026-2027-federal-work-study-form.php)
+
+## 筛选口径（供重新分析参考）
+
+`jobs.xlsx` 的「岗位检索」表用一组状态标签描述每个岗位的资格门槛，这些标签由脚本从英文原文自动提取，口径如下（详见 [docs/filtering-and-sorting.md](docs/filtering-and-sorting.md)）：
+
+- **Work-Study**：必需 / 可选·非必需 / 未明确要求 —— 联邦勤工助学（FWS），F-1 国际学生没有资格。
+- **本科生限定**：是 / 否 —— 是否明确只面向本科生。
+- **驾照 / 食品证**：明确要求 / 入职后可取得 / 未发现明确要求。
+- **经验要求**：明确要求经验年限 / 未发现明确年限。
+- **页面明确关闭**：正文是否已写「不再接受申请」。
+- **额外要求**：正文里的硬性门槛（语言、证书、学历、软件、体力、年龄等），人工标注于 `data/extra-requirements.json`。
+- **需公民身份**（JSON 字段 `requires_citizenship`）：正文是否要求美国公民 / 国民 / 合法永久居民 —— 对 F-1 国际学生是硬性排除项。
+
+「MEAE国际学生省流版」是给 MEAE 硕士 + F-1 国际学生的精简页，自动排除四类岗位：
+
+1. Work-Study 必需；
+2. 本科生限定；
+3. 页面明确关闭；
+4. 需公民身份。
+
+日后拉取新的岗位快照后，先重跑 `scripts/build_dataset.py` 和 `scripts/build_xlsx.py` 按同一口径重建，再用 AI 复核「额外要求」和「需公民身份」这类需要读原文才能判断的标签。
 
 ## 数据来源
 

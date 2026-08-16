@@ -61,6 +61,15 @@ def clean_markdown_value(value: str) -> str:
 
 EN_ADDITIONAL_ANCHOR = "the university is a participating employer with utah retirement systems"
 
+# Positions that require U.S. citizenship / national / lawful-permanent-resident
+# status — a hard disqualifier for F-1 international students.
+CITIZENSHIP_RE = re.compile(
+    r"united states (citizen|national)|u\.?s\.? (citizen|national)|american (citizen|national)|"
+    r"lawful permanent resident|permanent resident of the united states|"
+    r"citizenship (is )?required|must be a (citizen|national)",
+    re.I,
+)
+
 
 def strip_shared_additional_information(text: str) -> str:
     """Remove the university-wide Additional Information notice (URS boilerplate)
@@ -275,6 +284,9 @@ def build_records(raw_path: Path, translations_path: Path, departments_path: Pat
         alcohol_status, alcohol_evidence = requirement_status(all_requirement_text, "alcohol")
         exp_status, exp_evidence = experience_status(minimum_en)
         undergrad_only = bool(translation.get("requires_undergraduate"))
+        requires_citizenship = bool(
+            CITIZENSHIP_RE.search("\n".join([title_en, minimum_en, fields.get("Preferences", "")]))
+        )
         posting_text = "\n".join(fields.values())
         explicitly_closed = bool(
             re.search(r"this posting is closed and is no longer accepting applications", posting_text, re.I)
@@ -304,6 +316,7 @@ def build_records(raw_path: Path, translations_path: Path, departments_path: Pat
             "work_study_evidence": ws_evidence,
             "undergraduate_only": undergrad_only,
             "undergraduate_evidence_zh": translation.get("undergraduate_filter_reason", ""),
+            "requires_citizenship": requires_citizenship,
             "driver_license_status": driver_status,
             "driver_license_evidence": driver_evidence,
             "food_handler_status": food_status,

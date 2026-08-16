@@ -286,8 +286,6 @@ def build_manual_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]]) -> None:
 
 def _intl_flags(r: dict[str, Any]) -> str:
     flags: list[str] = []
-    if r["explicitly_closed_in_posting_text"]:
-        flags.append("已关闭")
     if r["driver_license_status"] == "明确要求/需核验":
         flags.append("需驾照")
     elif r["driver_license_status"] == "入职后可取得":
@@ -304,13 +302,19 @@ def _intl_flags(r: dict[str, Any]) -> str:
 
 
 def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: str) -> None:
-    """MEAE 国际学生省流版：排除必须联邦勤工助学（FWS）和仅限本科的岗位，只留关键列。"""
+    """MEAE 国际学生省流版：排除必须联邦勤工助学（FWS）、仅限本科、已关闭、需公民身份的岗位。"""
     ws = wb.create_sheet("MEAE国际学生省流版")
     headers = ["序号", "职位", "部门", "每周工时", "时薪", "截止日期", "注意"]
-    eligible = [r for r in jobs if r["work_study_status"] != "必需" and not r["undergraduate_only"]]
+    eligible = [
+        r for r in jobs
+        if r["work_study_status"] != "必需"
+        and not r["undergraduate_only"]
+        and not r["explicitly_closed_in_posting_text"]
+        and not r["requires_citizenship"]
+    ]
     excluded = len(jobs) - len(eligible)
     _style_title(ws, len(headers), "MEAE 国际学生省流版",
-                 f"面向 MEAE 硕士国际学生（F-1）· 已排除 {excluded} 个必须勤工助学或仅限本科的岗位 · 快照 {fetched_at}")
+                 f"面向 MEAE 硕士国际学生（F-1）· 已排除 {excluded} 个必须勤工助学、仅限本科、已关闭或需公民身份的岗位 · 快照 {fetched_at}")
     _style_header(ws, headers)
     # 截止日期近的在前，未提供截止日期的排最后
     ordered = sorted(eligible, key=lambda r: (r["close_date"] is None, r["close_date"] or ""))
