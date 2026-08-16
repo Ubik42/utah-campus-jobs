@@ -29,7 +29,6 @@ SOURCE_FIELDS = {
     "responsibilities_en": "responsibilities_zh",
     "preferences_en": "preferences_zh",
     "special_instructions_en": "special_instructions_zh",
-    "additional_information_en": "additional_information_zh",
 }
 SYSTEM_PROMPT = """你是严谨的美国大学招聘信息译者。把英文完整翻译成简体中文，不增删事实。
 要求：

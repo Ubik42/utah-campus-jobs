@@ -79,24 +79,6 @@ HIVE（High Impact Volunteer Experience）协调员是 Bennion Center 团队成�
 
 工作时间根据Bennion中心的需求确定，但包括上午、下午、晚上和周末。被选中的候选人将被期望为一年级HIVE居民小组主持每周会议，并且必须能够参加每周二下午1-2点举行的HIVE领导会议。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -158,24 +140,6 @@ Not provided.
 
 Times are determined based on the needs of the Bennion Center, but include mornings, afternoons, nights, and weekends. Selected candidates will be expected to host a weekly meeting for a group of first-year HIVE residents, and must be available for a weekly HIVE leadership meeting that takes place every Tuesday from 1-2 PM
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [Bennion Center 学生摄影师](https://employment.utah.edu/salt-lake-city-ut/bennion-center-student-photographer/F2A6FD08EDB149E49F4E561FA9525587/job/)
@@ -221,24 +185,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 该职位为合同制职位。当有机会出现时，将联系被选中的候选人。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -276,24 +222,6 @@ Not provided.
 **Work Schedule**
 
 This position is a contracted position. Selected candidate will be contacted when opportunities arrive.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -355,24 +283,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 班次主要为周一至周五上午8:00至下午5:00之间，偶尔会有晚间或周末班次，会提前通知。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -414,24 +324,6 @@ Not provided.
 **Work Schedule**
 
 Shifts will be primarily M-F between 8:00a – 5:00p, with an occassional evening or weekend shift with advance notice.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -510,26 +402,6 @@ Huntsman Cancer Institute 的服务范围包括 Idaho、Montana、Nevada、Utah 
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生群体工作经验，并坚定致力于改善高等教育入学机会的候选人。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障请求合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
-根据犹他大学政策5-108：福利合格员工的调动，新入职犹他大学且仍在12个月试用期内的员工，在成功完成试用期之前，不得被聘用到犹他大学的另一个职位（调动）。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -595,26 +467,6 @@ Not provided.
 
 Not provided.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
-As per University of Utah policy 5-108: Transfer of Benefits Eligible Staff Members, a new hire to the University of Utah who is still serving a 12 month probationary period will not be hired into another University of Utah job (a transfer) until the successful completion of the probationary period.
-
 </details>
 
 ## KUER 公共广播电台
@@ -675,24 +527,6 @@ KUER 招聘一名有创意、注重细节的社交媒体助理，每周工作 19
 
 每周19小时
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -750,24 +584,6 @@ Not provided.
 
 19 hours per week
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## Kahlert 计算机学院
@@ -824,24 +640,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 灵活
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -883,24 +681,6 @@ Not provided.
 **Work Schedule**
 
 Flexible
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -951,24 +731,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 灵活
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -1007,24 +769,6 @@ This posting is closed and is no longer accepting applications.
 **Work Schedule**
 
 Flexible
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -1080,24 +824,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五灵活安排，上午8点至下午5点
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -1133,24 +859,6 @@ Not provided.
 **Work Schedule**
 
 Flexible from Mon – Fri, 8 AM to 5 PM
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -1203,24 +911,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五（下午1点至下午5点）
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -1259,24 +949,6 @@ Not provided.
 **Work Schedule**
 
 Monday to Friday (1pm to 5pm)
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -1337,24 +1009,6 @@ Quest Academic Learning Program 招聘一名对社交媒体或内容制作职业
 
 该职位主要在工作日的白天、下午和傍晚时段工作。虽然时间安排通常较为固定，但偶尔会有周六活动，需要您参与。对于任何周末安排，我们都会提前通知，以便您做好相应计划。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -1405,24 +1059,6 @@ Not provided.
 **Work Schedule**
 
 This role primarily operates during weekday daytime, afternoon, and early‑evening hours. While the schedule is generally consistent, there will occasionally be Saturday events where your participation is expected. We’ll always provide advance notice for any weekend commitments so you can plan accordingly.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -1506,24 +1142,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 大部分时间在晚上和周末，偶尔有工作日班次。根据季节和项目安排而有所不同。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -1604,24 +1222,6 @@ Not provided.
 
 Mostly evenings and weekends, with occasional weekday shifts. Varies depending on season and program schedule.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [活动支持专员](https://employment.utah.edu/salt-lake-city-ut/event-support-specialist/5E4D78C4A11C4A6D816C61F74975ADA0/job/)
@@ -1686,24 +1286,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 #### 排班安排
 
 可变——需要早班、晚班和周末班。
-
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
 
 <details>
 <summary>查看英文原文</summary>
@@ -1774,24 +1356,6 @@ Not provided.
 
 Variable – morning, evening, and weekend shifts are required.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## Rice-Eccles 体育场
@@ -1853,24 +1417,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 - 7月28日
 - 8月7日
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -1926,24 +1472,6 @@ Event Dates required for this season:
 - July 7th or July 8th
 - July 28th
 - August 7th
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -2012,24 +1540,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 根据赖斯埃克尔斯体育场和乔恩·M·亨斯曼中心的活动日程安排。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -2085,24 +1595,6 @@ Not provided.
 
 Based on events schedule for Rice Eccles Stadium and Jon M Huntsman Center.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [体育场餐饮售卖人员](https://employment.utah.edu/salt-lake-city-ut/stadium-concession-staff/02CAEDA700BA4F1A934851633F24C227/job/)
@@ -2144,24 +1636,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 基于事件
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -2188,24 +1662,6 @@ Not provided.
 **Work Schedule**
 
 Event based
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -2272,24 +1728,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 基于活动的，适用于赖斯-埃克尔斯体育场和乔恩·M·亨斯曼中心
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -2342,24 +1780,6 @@ Not provided.
 **Work Schedule**
 
 Event based for Rice Eccles Stadium and Jon M Huntsman Center
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -2434,24 +1854,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 根据当前活动日程和活动，在一周内设定天数。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -2512,24 +1914,6 @@ Not provided.
 **Work Schedule**
 
 Set days during the week based on current event schedule plus events.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -2604,24 +1988,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 可变工作时间安排，包括部分晚间和周末时段。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -2678,24 +2044,6 @@ Variable work schedule to include some evening and weekend hours.
 **Work Schedule**
 
 Variable work schedule to include some evening and weekend hours.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -2754,24 +2102,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 工作时间表可能根据活动安排而变化，且经常在夜间、周末，有时甚至是节假日。平均班次为3-4小时。班次通过在线排班应用程序管理，由员工自愿接受，而非雇主指派。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -2818,24 +2148,6 @@ Not provided.
 **Work Schedule**
 
 The work schedule can vary based on event schedules and are frequently on nights, weekends, and sometimes holidays. An average shift is 3-4 hours. Shifts are managed via an online scheduling application and are voluntarily accepted by the employee, not assigned by the employer.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -2905,24 +2217,6 @@ UtahPresents 在犹他大学及周边地区举办多种艺术和文化演出。�
 
 晚上和周末
 
-#### 补充信息
-
-本校是犹他州退休系统（“URS”）的参与雇主。符合条件的、之前在URS有服务记录的新员工，如果在符合退休条件（通常为入职第一天）之前做出选择，可以选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并每月从URS领取退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生群体工作经验，并坚定致力于改善高等教育入学机会的候选人。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，需提出请求。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的规定。教育项目或活动中的非歧视要求适用于招生和就业。有关第九条及其法规适用的问题，可联系第九条协调员、教育部民权办公室，或两者。
-
-如需因残障请求合理便利，或者如果您或您认识的人遭遇过歧视或性行为不端（包括性骚扰），您可以联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，请访问：https://www.utah.edu/nondiscrimination/
-
-在线报告可提交至 oeo.utah.edu
-
-https://safety.utah.edu/safetyreport 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介，以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向公共安全部索取获得，地址：1658 East 500 South。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -2982,24 +2276,6 @@ Not provided.
 **Work Schedule**
 
 Evening and weekends
-
-**Additional Information**
-
-_The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules._
-
-_This position may require the successful completion of a criminal background check and/or drug screen._
-
-_The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education._
-
-_Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities._
-
-_Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both._
-
-_To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at:_ https://www.utah.edu/nondiscrimination/
-
-_Online reports may be submitted at_ oeo.utah.edu
-
-_https://safety.utah.edu/safetyreport This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South._
 
 </details>
 
@@ -3062,24 +2338,6 @@ UtahPresents 是犹他大学的非营利综合艺术演出机构，为校园及�
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -3132,24 +2390,6 @@ We are excited to expand our backstage team and look forward to discussing the r
 **Work Schedule**
 
 Not provided.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -3212,24 +2452,6 @@ Wilkes 气候科学与政策中心招聘一名学生大使，代表中心并帮�
 
 灵活
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -3274,24 +2496,6 @@ Not provided.
 **Work Schedule**
 
 Flexible
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -3348,24 +2552,6 @@ Wilkes 气候科学与政策中心招聘一名勤工助学学生，每周工作 
 
 灵活
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -3406,24 +2592,6 @@ Not provided.
 **Work Schedule**
 
 Flexible
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -3468,29 +2636,11 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 附加信息
 
-该大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在符合退休资格（通常为入职第一天）前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。已退休并每月从URS领取退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生共事经验并坚定致力于改善高等教育入学机会的候选人。
-
-符合条件的申请人可享有退伍军人优先权，需根据大学政策和犹他州法律提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用性的咨询可联系第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过位于1658 East 500 South的公共安全部请求获取。
+该
 
 #### 排班安排
 
 周一/周三 上午9:40-11:20，若注册人数增加，时间可能变动
-
-#### 补充信息
-
-未提供。
 
 <details>
 <summary>查看英文原文</summary>
@@ -3523,31 +2673,9 @@ Not provided.
 
 This is a non-benefitted position. Salary is based on classroom enrollment with a guaranteed base of $4,200 per course and increases incrementally per pupil.
 
-Additional Information
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 **Work Schedule**
 
 Mon/Wed 9:40am-11:20am could change if increased enrollment
-
-**Additional Information**
-
-Not provided.
 
 </details>
 
@@ -3627,24 +2755,6 @@ Not provided.
 
 周日：上午8点至下午4:30
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -3706,24 +2816,6 @@ Friday : 4:30-8:30pm
 Saturday : 8-4:30pm
 
 Sunday : 8-4:30pm
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -3800,24 +2892,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周五- 上午8:00-上午11:00。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -3881,24 +2955,6 @@ Interviews for this role(s) will be completed in-person at the University of Uta
 Mon-Th 8:00 am-12:00 pm
 
 Fri- 8:00 am-11:00 am.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -3968,24 +3024,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周五 下午4:00-晚上8:00
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -4041,24 +3079,6 @@ Not provided.
 SATURDAY & SUNDAY 8:00AM-4:30PM
 
 FRIDAY 4:00PM-8:00PM
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -4123,24 +3143,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 工作时间灵活，介于住房与餐饮项目办公室正常办公时间（周一至周五上午8点至下午5点）之间。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -4196,24 +3198,6 @@ Not provided.
 
 Variable hours between normal operation hours of the Housing and Dining Programs office of 8am – 5pm Monday – Friday
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## 体育部
@@ -4267,24 +3251,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -4327,24 +3293,6 @@ Not provided.
 **Work Schedule**
 
 Not provided.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -4413,24 +3361,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 - 周日 – 上午8点-下午4点
 - 班次：上午8点-中午12点；中午12点-下午4点
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -4488,24 +3418,6 @@ Facility is open:
 - Sunday – 8am-4pm
 - Shifts: 8am-12pm; 12pm-4pm
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [设施维护助理](https://employment.utah.edu/salt-lake-city-ut/maintenance-helper/56720BAD56C24368B0BEAADE5ABC9FD1/job/)
@@ -4555,24 +3467,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -4617,24 +3511,6 @@ Not provided.
 **Work Schedule**
 
 Not provided.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -4685,24 +3561,6 @@ Pathway Engineering 团队负责建设和改善犹他大学物理网络层基础
 
 周一至周五上午7:30至下午4:00，可根据课程安排灵活调整。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -4733,24 +3591,6 @@ Not provided.
 **Work Schedule**
 
 Mon – Friday 7:30AM – 4:00 PM, flexible around class schedule.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -4809,24 +3649,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 晚间轮班，在有演出时进行。由于该职位仅在演出向公众开放时工作，因此采用“工作3周，休息3周”的排班模式，6月至8月期间无工作安排。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -4867,24 +3689,6 @@ Not provided.
 **Work Schedule**
 
 Evening shifts when there are performances. Since this position is only working when the production is open to the public, there is a “3 weeks on, 3 weeks off” type of schedule with no work from June to August
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -4945,24 +3749,6 @@ Pioneer Theatre Company 招聘票房收银员，负责接听电话、售票并�
 
 该职位为兼职时间安排，工作时间为周一至周五上午10点至下午6点，当演出日程需要时，可能会有部分晚间和周末工作。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -5009,24 +3795,6 @@ Not provided.
 **Work Schedule**
 
 This position should expect a part-time schedule with shifts from 10AM to 6PM Monday through Friday, with some evening and weekend work when show schedules necessitate.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -5093,24 +3861,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 灵活的白班时间。办公室夏季工作时间为周一至周四上午9:00至下午3:00。秋季办公室工作时间会增加。工作时间将取决于候选人的可用性。我们会根据您的课程表来安排！
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -5157,24 +3907,6 @@ Not provided.
 **Work Schedule**
 
 Flexible daytime hours. Office summer hours are 9:00am to 3:00pm, Monday through Thursday. Office hours increase in the fall. Hours will depend upon candidate availability. We work with your class schedule!
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -5235,24 +3967,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 仅限特殊任务，例如：足球、篮球、音乐会等。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -5306,24 +4020,6 @@ Not provided.
 **Work Schedule**
 
 Special assignments only ex: Football, Basketball, Concerts, etc.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -5396,24 +4092,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五上午9点至下午5点，有机会安排晚间时段（每周工作时间在20小时以内，且每个薪资周期少于40小时），其中2个班次错开在上午9点至下午5点之间，1个晚间班次为下午3点至7点。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -5468,24 +4146,6 @@ Not provided.
 **Work Schedule**
 
 Monday-Friday 9am-5pm, with opportunity for evening hours (Selecting hours within 20 hrs/week and less than 40hrs/pay period), 2 staggered between 9am-5pm, 1 evening after hours staff 3pm-7pm
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -5548,24 +4208,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 该职位要求承诺两个学期，最好是一个完整的日历年。可持续发展大使每周在办公室工作8至10小时。工作在校内BUC50进行，时间为工作日上午7点至下午5点，部分班次在户外。偶尔需要在工作日之外和周末参加活动。申请此职位时，请提供本学期和下学期每日可用时间的详细信息。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -5606,24 +4248,6 @@ Not provided.
 **Work Schedule**
 
 This role requires a commitment of two academic semesters, preferably a full calendar year. Sustainability Ambassadors perform office work for 8 to 10hours weekly. Work is performed on campus in BUC50 between 7 am and 5 pm weekdays, with some outdoor shifts. Occasional requirements for events held outside of weekday hours and on weekends. Provide detailed information about your daily availability for this semester and next when applying for this position.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -5682,24 +4306,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 该职位要求承诺两个学期，最好是一个完整的日历年。可持续发展大使每周在办公室工作8至10小时。工作在校内BUC50进行，时间为工作日上午7点至下午5点，部分班次在户外。偶尔需要在工作日之外和周末参加活动。申请此职位时，请提供本学期和下学期每日可用时间的详细信息。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -5740,24 +4346,6 @@ Not provided.
 **Work Schedule**
 
 This role requires a commitment of two academic semesters, preferably a full calendar year. Sustainability Ambassadors perform office work for 8 to 10hours weekly. Work is performed on campus in BUC50 between 7 am and 5 pm weekdays, with some outdoor shifts. Occasional requirements for events held outside of weekday hours and on weekends. Provide detailed information about your daily availability for this semester and next when applying for this position.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -5814,24 +4402,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 被选中的候选人将被聘用，协助活动准备和后勤工作，包括活动布置、活动结束后的拆除和清理，并在活动期间提供人员支持。活动通常在晚上举行，偶尔在周末。被选中的候选人通常需要在下午4点至晚上11点之间工作，但工作时间可能有所变化。日程安排将提前两周通知实习生，但在繁忙时段，可能会临时请求协助。实习生通常需要每周工作5-10小时。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -5868,24 +4438,6 @@ Not provided.
 **Work Schedule**
 
 The selected candidate will be hired to assist with event preparation and logistics including event set up, event breakdown and clean up, and provide staffing support during events. Events generally are held in the evenings and on weekends occasionally. The selected candidate would be required to work generally between the hours of 4:00 pm and 11:00 pm but hours could vary. Schedules would be communicated to intern 2 weeks in advance, but assistance could be requested on short notice during busy times. Interns will be required to work 5-10 hours per week generally.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -5950,24 +4502,6 @@ Prosperity U 招聘一名学生社交媒体实习生，每周最多工作 20 小
 
 早班或下午班，偶尔有晚间和周末班。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6027,24 +4561,6 @@ Not provided.
 **Work Schedule**
 
 Morning or afternoon shifts with occasional evening and weekends.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -6134,24 +4650,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 必须在正常工作时间内（周一至周五，上午8点至下午5点）每周工作最多15小时。偶尔可能需要在晚上/周末以及学术假期工作。需要保证一年的可用时间（春季、夏季、秋季学期）。我们的团队将根据您的日程安排来协调课程和其他承诺。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6224,24 +4722,6 @@ Not provided.
 
 Must be available to work up to 15 hours a week in between regular business hours, 8am-5 pm, Monday through Friday. Occasional work on evenings/weekends and over academic breaks may be required. Availability for one year is required (spring, summer, fall semesters). Our team will work with your schedule to accommodate classes and other commitments.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## 在线教育
@@ -6298,24 +4778,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 时间安排由学校日程和可用性决定
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6355,24 +4817,6 @@ Not provided.
 **Work Schedule**
 
 Schedule to be determined by school schedule and availability
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -6434,10 +4878,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 如有需要可灵活安排。周一至周五上午8点至下午5点
 
-#### 补充信息
-
-未提供。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6479,10 +4919,6 @@ Please submit a cover letter (1 pg max) answering the following questions:
 **Work Schedule**
 
 Flexible if needed. Mon-Fri 8am-5pm
-
-**Additional Information**
-
-Not provided.
 
 </details>
 
@@ -6551,24 +4987,6 @@ Not provided.
 
 周一至周四上午11点至晚上8点，周五上午11点至下午5点
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6618,24 +5036,6 @@ You will be asked to show projects/work you have created using Adobe application
 
 M-Th 11am-8pm, F 11am-5pm
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## 大学信息技术部·校级支持服务
@@ -6683,24 +5083,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 根据学生的课程安排而变化
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6731,24 +5113,6 @@ Not provided.
 **Work Schedule**
 
 Varies based on student’s class schedule
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -6801,24 +5165,6 @@ University Analytics and Institutional Reporting（UAIR）招聘传播、市场�
 
 周一至周五，工作时间待安排
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6862,24 +5208,6 @@ Not provided.
 **Work Schedule**
 
 Monday-Friday, hours to be arranged
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -6927,24 +5255,6 @@ University Analytics and Institutional Reporting（UAIR）招聘计算机科学�
 
 周一至周五，工作时间待安排
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -6988,24 +5298,6 @@ Not provided.
 **Work Schedule**
 
 Monday-Friday, hours to be arranged
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -7069,24 +5361,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 班次在晚上，理想时间为5-10点，但工作时间灵活。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -7135,24 +5409,6 @@ Not provided.
 **Work Schedule**
 
 Shift is in the evening, ideally 5-10, but hours are flexible.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -7204,24 +5460,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 上午7:00至下午3:00，下午3:00至晚上11:00，可根据课程灵活调整，周末需上班。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求适用于招生和就业。关于Title IX及其法规适用的问题，可向Title IX协调员、教育部民权办公室或两者咨询。
-
-如需为残障申请合理便利，或如果您或您认识的人遭受过歧视或性行为不端（包括性骚扰），可联系平等机会和Title IX办公室（OEO）的主任/Title IX协调员。更多信息可在犹他大学非歧视页面上找到。
-
-在线报告可提交至oeo.utah.edu。
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。它还提供犹他大学提供的安全相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -7257,24 +5495,6 @@ Not provided.
 **Work Schedule**
 
 7:00am-03:00pm, 03:00pm-11:00pm with flexibility in regards to classes, weekends required.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information can be located on the University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at oeo.utah.edu.
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. It also provides information about safety and security‑related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -7325,24 +5545,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 每周两个8小时班次。晚上11点至早上7点的夜班。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -7385,24 +5587,6 @@ Not provided.
 **Work Schedule**
 
 Two 8-hour shifts/week. 11pm-7am overnight shifts.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -7460,24 +5644,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -7524,24 +5690,6 @@ Not provided.
 **Work Schedule**
 
 Not provided.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -7636,24 +5784,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -7730,24 +5860,6 @@ Not provided.
 **Work Schedule**
 
 Not provided.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -7850,24 +5962,6 @@ Student Parent Support Center 为犹他大学学生、教职员工和患者提�
 - 周一至周五，上午7:00至下午7:00
 - 工作时间可能有所变动
 - 每周最多19小时，具体取决于招聘需求和现任员工的时间安排
-
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
 
 <details>
 <summary>查看英文原文</summary>
@@ -7989,24 +6083,6 @@ Not provided.
 - Schedules may vary
 - Up to 19 hours per week depending on hiring needs and incumbent schedule
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [校内托育课堂助理](https://employment.utah.edu/salt-lake-city-ut/classroom-assistant-campus/B0A3CB6A7C98483F967C0F34E5830AC8/job/)
@@ -8049,24 +6125,6 @@ Student Parent Support Center 为犹他大学学生、教职员工和患者提�
 #### 排班安排
 
 周一至周五上午7:00至下午7:00，工作时间可能有所不同
-
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
 
 <details>
 <summary>查看英文原文</summary>
@@ -8114,24 +6172,6 @@ Not provided.
 **Work Schedule**
 
 Monday through Friday between 7:00 am and 7:00 pm, Schedules may vary
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -8196,24 +6236,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五，上午9点至下午5点。部分晚上和周末。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -8263,24 +6285,6 @@ Please include a copy of your Fall Schedule
 **Work Schedule**
 
 Monday – Friday, 9 am – 5 pm. Some evenings and weekends.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -8336,24 +6340,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 每周15-19小时。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -8389,24 +6375,6 @@ In their cover letter, participants are encouraged to articulate why they are in
 **Work Schedule**
 
 15-19 hours per week.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -8461,24 +6429,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五，上午8点至下午5点
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -8517,24 +6467,6 @@ First day would be the start of the spring 2027 semester – Monday, January 11t
 **Work Schedule**
 
 Monday – Friday, 8am-5pm
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -8594,24 +6526,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 每周15-19小时；周一至周五上午8点至下午5点工作时间内灵活安排）根据工作量和座位容量，可能需要变动工时。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -8666,24 +6580,6 @@ Please write a brief explanation (250 words or less) of why you are interested i
 **Work Schedule**
 
 15-19 hours weekly; flexible schedule within M-F 8-5 business hours) Variable hours may be required to accommodate workload and seating capacity.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -8744,24 +6640,6 @@ Enrollment Management 招聘一名有创意、注重细节的学生平面设计�
 
 工作时间在上午8点至下午5点之间变化/周一至周五
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -8808,24 +6686,6 @@ Not provided.
 **Work Schedule**
 
 Hours vary between the hours of 8am – 5pm/ M-F
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -8892,24 +6752,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 这是一个兼职、固定期限职位，为期九个月，每周不超过20小时，需在周一至周五上午8:00至下午5:00（山地时间）的正常办公时间内有一定可用性。该职位在11月23日至11月27日那一周，以及2026年12月21日至2027年1月4日期间不工作。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -8960,24 +6802,6 @@ Required 5 professional references, information requested: First and Last Name, 
 **Work Schedule**
 
 This is a part time, fixed term position of nine months at no more than 20 hours a week, with some availability during regular office hours of Monday – Friday 8:00am – 5:00pm MT. This position will not work the week of November 23rd – November 27th, or December 21st, 2026 – January 4th, 2027.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -9031,24 +6855,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 工作时间：周一至周五上午8:00至下午5:00之间，每周10-19小时
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -9091,24 +6897,6 @@ Not provided.
 **Work Schedule**
 
 Work Schedule: Monday – Friday between 8:00am – 5:00pm, 10-19 hours weekly
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -9175,24 +6963,6 @@ STEMCAP 与科学、艺术及人文学科专家合作，帮助被监管青少年
 #### 排班安排
 
 周一至周五，上午8点至下午5点之间。极少情况下，根据需要可能在周末或晚间工作。
-
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
 
 <details>
 <summary>查看英文原文</summary>
@@ -9265,24 +7035,6 @@ Not provided.
 
 Monday to Friday, within the hours of 8-5. Rarely weekends or evenings, as needed.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## 机械工程系
@@ -9349,24 +7101,6 @@ ME Capstone 实验室/创客空间：工作日上午 7:00 至下午 7:00 将配�
 
 该职位要求每周一至周五上午7:00至下午7:00之间，每周可工作10至20小时。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -9416,24 +7150,6 @@ This position will only be offered to Federal Work-Study Awardees.
 **Work Schedule**
 
 This position requires availability of 10 to 20 hours per week between 7:00 AM and 7:00 PM , Monday through Friday .
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -9488,24 +7204,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 提供早班、中班和晚班。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -9549,24 +7247,6 @@ Not provided.
 **Work Schedule**
 
 Morning, afternoon, and evening shifts available.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -9626,24 +7306,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 每周10-15小时（根据工作量最多可达19小时）。根据实际需要，可能需要在晚上和周末工作。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -9683,24 +7345,6 @@ Applicants must submit a resume along with a portfolio or links to 3–5 example
 **Work Schedule**
 
 10-15 hours per week (up to 19 depending on the workload). Evenings and weekends may be required on an as needed basis.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -9759,24 +7403,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五，上午9点至下午5点
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -9819,24 +7445,6 @@ Not provided.
 **Work Schedule**
 
 Monday – Friday between 9 am – 5 pm
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -9896,24 +7504,6 @@ Eccles 校友之家：
 
 周一至周五。工作时间灵活，部分活动包括晚间和周末。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -9957,24 +7547,6 @@ Applicants may choose to upload photography samples and/or a portfolio of prior 
 **Work Schedule**
 
 Monday–Friday. Variable hours, includes evenings and weekends for selected events.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -10031,24 +7603,6 @@ Eccles Alumni House 招聘兼职活动工作人员，需要具备良好的顾客
 
 工作天数和时间将根据会议和活动的需求而变化。可能需要清晨、周末或晚间工作。优先考虑能够在周一和周三晚上、周五、周六和周日工作的人。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -10089,24 +7643,6 @@ Not provided.
 **Work Schedule**
 
 Days and Hours will vary depending upon the needs of meetings and events. Early morning, Weekend or evening work will be required. Preference will be given to those who can work Monday and Wednesday evenings, Friday, Saturday and Sunday.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -10202,24 +7738,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 从秋季学期开始至12月10日（秋季学期最后一天上课日），WEAs预计每周工作10-12小时。这些工作时间可以在正常办公时间内（周一至周五，上午8点至下午5点）进行，但也将包括晚间或周末的活动/项目。WEAs在学术假期（秋季、冬季、春季）、大学关闭日或学生事务处关闭的节假日，以及秋季或春季学期的期末考试周期间，将不被要求工作。该职位可根据项目需求和可用资金，续签至2027年春季和/或夏季。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -10311,24 +7829,6 @@ Briefly share your interest or curiosity in any of the following areas (experien
 
 Beginning in Fall semester through December 10 (last day of classes for Fall semester), WEAs are expected to work 10-12 hours per week. These hours may be held during regular business hours (8-5, M-F) but will also include evening or weekend events/programs. WEAs will not be required to work during academic breaks (fall, winter, spring), University closure days or holidays when Student Affairs is closed, or during finals week for the fall or spring semester. Position may be renewed for Spring and/or Summer 2027 based on program needs and available funding.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [市场营销助理](https://employment.utah.edu/salt-lake-city-ut/marketing-assistant/4158C940AB694D358B355B733478AB68/job/)
@@ -10387,24 +7887,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 - 每周工作10-12小时，工作时间和安排灵活
 - 节假日或学术假期无需工作
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -10459,24 +7941,6 @@ In the “Applicant Document – Other” section of this application, please su
 - Attend the required CCW student staff training on August 13-15
 - Work 10-12 hours per week, hours and schedule are flexible
 - Not required to work on holidays or academic breaks
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -10536,24 +8000,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 为学生提供灵活的时间安排。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -10595,24 +8041,6 @@ Not provided.
 **Work Schedule**
 
 Flexible scheduling for students.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -10679,24 +8107,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周六，每周19-20小时，部分周末和节假日。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -10755,24 +8165,6 @@ Not provided.
 **Work Schedule**
 
 M-Sa, 19-20 hours a week, some weekends and holidays.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -10844,24 +8236,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五，每周19-20小时。部分周末和节假日。必须能够参加所有主场橄榄球比赛。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -10929,24 +8303,6 @@ Not provided.
 **Work Schedule**
 
 M-F, 19-20 hours a week. some weekends and holidays. Must be able to work all home football games.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -11034,24 +8390,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 #### 排班安排
 
 周一至周五，每周15-20小时，根据门店需求，可能涉及清晨、深夜或周末时段。
-
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
 
 <details>
 <summary>查看英文原文</summary>
@@ -11144,24 +8482,6 @@ Not provided.
 
 M-F, 15-20 hours a week, some early morning, late nights or weekends depending on store need.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [教材与课程资料助理](https://employment.utah.edu/salt-lake-city-ut/academic-materials-associate/8412AE5A57FA49E5BC94E1520A7636A4/job/)
@@ -11225,24 +8545,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周六，每周19-20小时，部分周末和节假日。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -11301,24 +8603,6 @@ Not provided.
 **Work Schedule**
 
 M-Sa, 19-20 hours a week, some weekends and holidays.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -11385,24 +8669,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 淡季每周15-20小时，足球赛季期间时间不定，有时需要熬夜和周末工作。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -11468,24 +8734,6 @@ Not provided.
 
 15-20 hours a week off season, variable during football season, some late nights and weekends.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [订单履约助理](https://employment.utah.edu/salt-lake-city-ut/order-fulfillment-associate/0037FEB6685948E7BCEBDFFCB414DC10/job/)
@@ -11546,24 +8794,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五，每周15-20小时，根据门店需求，可能涉及清晨、深夜或周末时段。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -11619,24 +8849,6 @@ Not provided.
 **Work Schedule**
 
 M-F, 15-20 hours a week, some early morning, late nights or weekends depending on store need.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -11705,24 +8917,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 灵活班次，但要求周二/周四上午8点至下午5点
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -11771,24 +8965,6 @@ Not provided.
 **Work Schedule**
 
 Flexible Shifts, but requesting Tuesday/Thursday 8-5 pm
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -11841,24 +9017,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五，每周10小时，可根据活动报道灵活调整或增加工作时间。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -11907,24 +9065,6 @@ This posting is closed and is no longer accepting applications.
 
 Monday-Friday, 10 hours a week with flexibility or additional hours available for event coverage.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [本科生小时制研究助理](https://employment.utah.edu/salt-lake-city-ut/hourly-undergrad-research-assistant/E9A25B62B6D4425CABEF5647937D200A/job/)
@@ -11966,24 +9106,6 @@ CLASP Collaborative 正在邀请最多两名本科生研究助理加入我们的
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -12012,24 +9134,6 @@ To apply to this position, please provide a cover letter explaining your experie
 **Work Schedule**
 
 Not provided.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -12093,24 +9197,6 @@ _此职位描述并非旨在包含或解释为分配给该职位的员工所需�
 
 周一至周五，上午8点至下午5点，时间灵活
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -12154,24 +9240,6 @@ Not provided.
 **Work Schedule**
 
 Monday-Friday, 8am-5pm, flexible
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -12239,24 +9307,6 @@ h. 了解博物馆的运营和项目
 
 班次根据其他工作人员的可用情况而变化。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -12311,24 +9361,6 @@ This position is 10-19 hours per week and may require weekends and some evenings
 Hours of operation: 8:00 am – 5:00 pm (8:00 pm on Wednesday) Sat-Sun 10:00 am – 5:00 pm.
 
 Shifts vary based upon the availability of other staff members.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -12397,24 +9429,6 @@ e. 协助客户解答有关日历、展览、项目和活动的问题
 
 该职位每周最多工作19小时，可能需要周末及部分晚间工作。排班取决于其他工作人员的可用时间。商店营业时间：周二、周四、周五、周六、周日10-5，周三10-8。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -12474,24 +9488,6 @@ Please include a list of availability and/or a class schedule.
 
 This position is up to 19 hours per week and may require weekends and some evenings. Scheduling depends upon other staff member’s availability. Store hours of operation: Tuesday, Thursday, Friday, Saturday, Sunday 10-5 and Wednesday 10-8
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [UMFA 安保服务人员](https://employment.utah.edu/salt-lake-city-ut/umfa-protection-services/BA243399DB554773869B2FB11D3EB123/job/)
@@ -12545,24 +9541,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 运营时间：周一、周二、周四、周五 上午7:30-下午6:00 | 周三 上午7:30-晚上9:00 | 周六及周日 上午9:30-下午6:00
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -12609,24 +9587,6 @@ Please include a list of availability and/or a class schedule.
 Assigned shifts vary dependent upon other staff members.
 
 Hours of operation: Monday, Tuesday, Thursday, Friday 7:30am-6:00pm |Wednesday 7:30am-9:00pm | Saturday & Sunday 9:30am-6:00pm
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -12693,24 +9653,6 @@ UMFA 位于犹他大学校园内，是犹他州和犹他大学的官方美术博
 
 工作时间不固定，将根据内部和外部活动租赁的需求进行安排。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -12766,24 +9708,6 @@ This position will require weekends and some evenings.
 
 Hours are variable and scheduled as needed based upon internal and external event rentals.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## 犹他自然历史博物馆
@@ -12833,24 +9757,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 实习生将远程工作，由Research Quest数字参与团队直接监督并协作。团队会议在工作时间内定期通过Zoom举行。独立工作时间灵活。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -12896,24 +9802,6 @@ Commitment: This is an immediate placement with an expected start date of late A
 **Work Schedule**
 
 Intern will work remotely, supervised by and collaborating directly with the Research Quest Digital. Engagement Team Team meetings held regularly via Zoom during business hours. Independent working times are flexible.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -12980,24 +9868,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 - 需要一些晚间和整个活动周末的工作时间。在可能的情况下，工作时间会灵活调整。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13053,24 +9923,6 @@ Not provided.
 
 - Some evenings and full event weekends are required. Hours well flex when possible.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [博物馆展品支架制作师（临时）](https://employment.utah.edu/salt-lake-city-ut/museum-mountmaker-temporary/115A82728DD3498CA3769735113B27E4/job/)
@@ -13115,24 +9967,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 预计装裱师每周工作10-15小时（视可用时间而定）。所有工作时间必须在NHMU正常工作时间段内进行，可能包括周末。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13168,24 +10002,6 @@ Not provided.
 **Work Schedule**
 
 Mountmakers are anticipated to work a schedule of 10-15 hours per week as available. All work time must take place during regular NHMU working hours, which may include weekends.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -13230,24 +10046,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 此人将被要求在工作周的周一至周五上午9:00至下午5:00之间工作。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13280,24 +10078,6 @@ Not provided.
 **Work Schedule**
 
 This person will be expected to work during the work week days Monday – Friday between 9:00am-5:00pm.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -13358,24 +10138,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 该职位要求每周日9点至5点工作。周二和周四上午8:30至下午1:30。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13422,24 +10184,6 @@ Not provided.
 **Work Schedule**
 
 This position is required to work every Sunday from 9-5. And Tuesday & Thursday AM from 8:30AM to 1:30pm
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -13497,24 +10241,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 工作时间灵活，包括部分工作日下午放学后的时段、部分工作日时段，以及偶尔的周六和周日时段。周一至周五，上午9点至下午5点，偶尔有晚间和周末工作。该职位符合混合工作制条件。了解更多信息请访问：https://workreimagined.utah.edu/
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13560,24 +10286,6 @@ We welcome applicants with non-traditional backgrounds and alternative paths to 
 **Work Schedule**
 
 Variable, includes some weekday after school hours, some weekday hours, and occasional Saturday and Sunday hours Monday – Friday, 9 am – 5 pm with occasional evenings and weekends. This role is eligible for a hybrid work schedule. Learn more here: https://workreimagined.utah.edu/
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -13639,24 +10347,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 3. Work-Study 保留英文并可写作“勤工助学（Work-Study）”；
 4. 只返回 JSON：{"translated_text": "..."}。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13691,24 +10381,6 @@ Please login to CIS and go to the Finance/Financial Aid section to view your Fin
 **Work Schedule**
 
 Variable
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -13761,24 +10433,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五，实验室开放时间上午7点至晚上8点，与学术日程安排一致。此安排可在每学期前进行审查。学生每周工作时间不会超过19小时。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13811,24 +10465,6 @@ This posting is closed and is no longer accepting applications.
 **Work Schedule**
 
 Mondays through Fridays, during lab hours 7am – 8pm, as aligned with academic schedule. This can be reviewed prior to each semester. Students will not be scheduled more than 19 hours per week.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -13887,24 +10523,6 @@ John and Marcia Price 工程学院电子与计算机工程系（ECE）招聘兼�
 
 周一至周五，办公时间上午8点至下午5点，与学术日程安排一致。每学期前可对此进行审查。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -13959,24 +10577,6 @@ Not provided.
 **Work Schedule**
 
 Mondays through Fridays, during office hours 8am -5pm, as aligned with academic schedule. This can be reviewed prior to each semester.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -14061,24 +10661,6 @@ Yitong Xin 博士招聘一名研究生研究助理（职位代码 1632），支�
 
 未提供。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -14144,24 +10726,6 @@ A review of applications will begin immediately, but applications will be accept
 
 Not provided.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [社会工作学院兼职讲师](https://employment.utah.edu/salt-lake-city-ut/associate-instructor/96FD621221B94C7D92B39D5E491FF15D/job/)
@@ -14217,24 +10781,6 @@ BSW 课程范围包括社会工作导论、社会多样性、HBSE、健康的社
 
 兼职，按学期聘任。根据公布的课程表教授分配的课程，可能包括白天、晚上、周末、在线或远程课程。出席所有安排的课堂时段，并与学生保持定期沟通。每周至少安排1-2次办公时间（或按学院要求）。在课外投入额外时间进行备课、批改作业、学生支持和课程管理。按要求参加必要的教师入职培训、培训会议和专业发展活动。每学期的时间安排可能根据招生情况、部门需求和课程分配而有所不同。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -14279,24 +10825,6 @@ This posting is closed and is no longer accepting applications.
 **Work Schedule**
 
 Part-time, semester-based appointment. Teach assigned courses according to the published class schedule, which may include daytime, evening, weekend, online, or distance classes. Be present for all scheduled class sessions and maintain regular communication with students. Hold a minimum of 1–2 office hours per week (or as required by the College). Dedicate additional time outside of class for lesson preparation, grading, student support, and course administration. Attend required faculty orientation, training sessions, and professional development activities as assigned. Schedule may vary each semester based on enrollment, departmental needs, and course assignments.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -14365,24 +10893,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 TRIO办公室的标准工作时间——周一至周五，上午8点至下午5点，偶尔有周末和夜间活动。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -14439,24 +10949,6 @@ This position is available only to University of Utah students who have been awa
 **Work Schedule**
 
 Standard operating hours of the TRIO Office – Monday through Friday, 8 a.m. – 5 p.m. with occassional weekend and night events.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -14521,24 +11013,6 @@ TRIO SSS 是由联邦政府资助的学业支持项目，面向第一代大学�
 
 TRIO办公室的标准工作时间——周一至周五，上午8点至下午5点，偶尔有周末和晚间活动。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -14595,24 +11069,6 @@ This position is available only to University of Utah students who have been awa
 **Work Schedule**
 
 Standard operating hours of the TRIO Office – Monday through Friday, 8 a.m. – 5 p.m. with occasional weekend and night events.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -14677,24 +11133,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 *学生雇员额外选择的在线辅导时间
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -14751,24 +11189,6 @@ Wednesday – West High School 3PM – 4:30 PM
 Thursday – Highland High School 3PM – 4:30 PM
 
 \*Additional Online Tutoring Hours Selected by Student Employee
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -14829,24 +11249,6 @@ e. 于2025年11月14日前提交你的最终项目。
 - 实习时间安排由组织决定
 - 根据任职者其他犹他大学职位（如有）的情况，每周最多可支付19小时
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -14887,24 +11289,6 @@ Not provided.
 
 - Schedule to be determined by the organization for the internship
 - Eligible to be paid up to 19 hours/week, depending on incumbent’s other U of U positions (if any).
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -14953,24 +11337,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 按照AV房间经理的安排，将包括制作排练和演示期间的晚间、夜间和周末时间。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15003,24 +11369,6 @@ Not provided.
 **Work Schedule**
 
 As scheduled by the AV Room Manager, will include evenings, nights, and weekends during production rehearsals and presentations.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -15065,24 +11413,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 按照AV房间经理的安排，将包括制作排练和演示期间的晚间、夜间和周末时间。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15115,24 +11445,6 @@ Not provided.
 **Work Schedule**
 
 As scheduled by the AV Room Manager, will include evenings, nights, and weekends during production rehearsals and presentations.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -15177,24 +11489,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 按照技术总监的安排，将在制作排练和演出期间包括晚间、夜间和周末。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15221,24 +11515,6 @@ Not provided.
 **Work Schedule**
 
 As scheduled by the Technical Director, will include evenings, nights, and weekends during production rehearsals and presentations.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -15283,24 +11559,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 按照技术总监的安排，将在制作排练和演出期间包括晚间、夜间和周末。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15331,24 +11589,6 @@ Not provided.
 **Work Schedule**
 
 As scheduled by the Technical Director, will include evenings, nights, and weekends during production rehearsals and presentations.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -15400,24 +11640,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 工作时间可根据学生的课程安排灵活调整。首选的可工作时间为周一至周五上午9:00至下午5:00之间。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15453,24 +11675,6 @@ Not provided.
 **Work Schedule**
 
 Work Schedule is flexible depending on student’s course schedule. Preferred availability would fall between the hours of 9:00am and 5:00pm on Monday through Friday.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -15521,24 +11725,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周四上午8:30至下午4:30之间灵活安排时间
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15569,24 +11755,6 @@ Not provided.
 **Work Schedule**
 
 Flexible availability between 8:30am and 4:30pm Monday – Thursday
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -15636,24 +11804,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 周一至周五工作时间视部门需求和学生的课程安排而定。可能提供部分周末班次。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15691,24 +11841,6 @@ Not provided.
 **Work Schedule**
 
 M-F variable hours depending on departmental needs and student schedule. Some weekend shifts may be available.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -15784,24 +11916,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 工作时间必须在周一至周五，上午8:30至下午5点之间。我们可以根据您的课程安排时间。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15860,24 +11974,6 @@ This job posting is only available to University of Utah students who have been 
 
 Hours must be worked between Monday – Friday, 8:30am-5pm. We are able to schedule in order to accommodate your classes.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## 英语语言学院
@@ -15931,24 +12027,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 - 周一至周四 下午6:00 – 晚上8:00
 - 面对面授课
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -15986,24 +12064,6 @@ Not provided.
 - Monday – Friday 8:35 am – 12:40 pm
 - Monday – Thursday 6:00 pm – 8:00 pm
 - In-person Instruction
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -16080,25 +12140,7 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 #### 申请说明
 
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，经请求适用。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。不歧视教育项目或活动的规定适用于招生和就业。有关第九条及其法规适用性的咨询，可联系第九条协调员、教育部民权办公室，或两者。
-
-如需为残障请求合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），您可以联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，请访问：https://www.utah.edu/nondiscrimination/
-
-在线报告可提交至 oeo.utah.edu
-
-https://safety.utah.edu/safetyreport
-
-本报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《反暴力侵害妇女法》犯罪行为的统计数据。还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获得。
-
-根据犹他大学政策5-108：福利合格员工的调动，新入职犹他大学且仍在12个月试用期内的员工，在成功完成试用期之前，不得被聘用到犹他大学的另一个职位（调动）。
+未提供。
 
 #### 排班安排
 
@@ -16113,24 +12155,6 @@ https://safety.utah.edu/safetyreport
 下午6:00 – 下午10:00
 
 下午10:00 – 凌晨2:00
-
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
 
 <details>
 <summary>查看英文原文</summary>
@@ -16207,25 +12231,7 @@ Not provided.
 
 **Special Instructions**
 
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at: https://www.utah.edu/nondiscrimination/
-
-Online reports may be submitted at oeo.utah.edu
-
-https://safety.utah.edu/safetyreport
-
-This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
-As per University of Utah policy 5-108: Transfer of Benefits Eligible Staff Members, a new hire to the University of Utah who is still serving a 12 month probationary period will not be hired into another University of Utah job (a transfer) until the successful completion of the probationary period.
+Not provided.
 
 **Work Schedule**
 
@@ -16240,24 +12246,6 @@ M, T, W, Th, Fri
 6:00 PM – 10:00 PM
 
 10:00 PM – 2:00 AM
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -16332,24 +12320,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 #### 排班安排
 
 工作日晚上 4 点至 10 点，可能包含周六班次（上午 9 点至下午 5 点）
-
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
 
 <details>
 <summary>查看英文原文</summary>
@@ -16426,24 +12396,6 @@ Not provided.
 
 Weekday evenings 4 PM – 10 PM, with possible Saturdays shifts (9 AM – 5 PM)
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ## 通勤服务
@@ -16489,24 +12441,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 0800-1200, 1200-1600, 1600-2000
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求适用于招生和就业。关于Title IX及其法规适用的问题，可向Title IX协调员、教育部民权办公室或两者咨询。
-
-如需为残障申请合理便利，或如果您或您认识的人遭受过歧视或性行为不端（包括性骚扰），可联系平等机会和Title IX办公室（OEO）的主任/Title IX协调员。更多信息可在犹他大学非歧视页面上找到。
-
-在线报告可提交至oeo.utah.edu。
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。它还提供犹他大学提供的安全相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -16533,24 +12467,6 @@ Not provided.
 **Work Schedule**
 
 0800-1200, 1200-1600, 1600-2000
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information can be located on the University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at oeo.utah.edu.
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. It also provides information about safety and security‑related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -16593,24 +12509,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 工作时间在下午06:00至凌晨02:00之间变化
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -16643,24 +12541,6 @@ Not provided.
 **Work Schedule**
 
 Hours vary between 06:00pm and 02:00am
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -16733,22 +12613,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 附加信息
 
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工如果之前有URS服务，可以在退休资格（通常是第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前退休并从URS领取月度退休福利的个人受URS退休后规则和限制的约束。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视有与学生一起工作经验的候选人，并坚定致力于改善高等教育机会。
-
-符合条件的申请人可享受退伍军人优先权，根据要求并符合大学政策和犹他州法律。根据要求，将向残疾人提供申请过程中的合理便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，如Title IX和34 CFR第106部分所要求。不歧视教育项目或活动的要求延伸至招生和就业。关于Title IX及其法规适用的咨询可转至Title IX协调员、教育部民权办公室或两者。
-
-如需为残疾请求合理便利，或者如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），您可以联系平等机会和Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包括关于刑事犯罪、仇恨犯罪、逮捕和转介纪律处分以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全相关服务信息。纸质副本可通过位于1658 East 500 South的公共安全部请求获得。
-
 #### 最低资格
 
 等效声明：1年高等教育可替代1年直接相关工作经验（例如：学士学位=4年直接相关工作经验）。部门可按以下级别聘用：车辆操作员I：要求极少或无相关经验；车辆操作员II：要求至少1年相关经验。
@@ -16764,10 +12628,6 @@ https://publicsafety.utah.edu/safetyreport/ 此报告包括关于刑事犯罪、
 #### 排班安排
 
 视情况而定
-
-#### 补充信息
-
-未提供。
 
 <details>
 <summary>查看英文原文</summary>
@@ -16826,24 +12686,6 @@ Excellent familiarity with connecting UTA and TRAX routes.
 
 Special Instructions Summary
 
-Additional Information
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 **Minimum Qualifications**
 
 Not provided.
@@ -16859,10 +12701,6 @@ Not provided.
 **Work Schedule**
 
 Varies
-
-**Additional Information**
-
-Not provided.
 
 </details>
 
@@ -16920,24 +12758,6 @@ PATHS 是面向高中生的大学预备项目，重点服务第一代大学生�
 
 每周20小时，90%远程工作，10%线下工作。导师须在项目实地考察期间每月工作一个周六，以监督并协助开展与项目参与者的活动。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -16983,24 +12803,6 @@ Work-Study Award for the current year. Please login to CIS and go to the Finance
 **Work Schedule**
 
 20 hours per week, 90% remote and 10% in-person. Mentors are required to work one Saturday a month during program field trips to supervise and facilitate activities with program participants.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -17059,24 +12861,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 由主管根据学生的学校日程和音乐学院所需工时与学生协调确定。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -17119,24 +12903,6 @@ Not provided.
 **Work Schedule**
 
 To be determined by supervisor with coordination with the student’s school schedule and the hours needed in the School of Music.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -17209,24 +12975,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 每周根据演出/活动安排而有所不同——包括夜间、周末和白天。由特别活动协调员根据演出/活动安排进行分配。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为第一天工作）之前选择加入URS。请联系人力资源部（801）581-7447获取信息。之前已退休并从URS领取月度退休福利的个人须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统（801）366-7770或（800）695-4877，或大学人力资源管理部（801）581-7447。
-
-该职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，应要求提供。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合第九条和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关第九条及其法规适用的问题可咨询第九条协调员、教育部民权办公室或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），可联系平等机会与第九条办公室（OEO）的主任/第九条协调员。更多信息，包括主任/第九条协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 该报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。他们还提供犹他大学提供的安全与安保相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -17285,24 +13033,6 @@ Not provided.
 **Work Schedule**
 
 Varies each week based on performance/event schedule – nights, weekends, and days. Assigned by the Special Events Coordinator based on performance/event schedule.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted athttps://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -17395,24 +13125,6 @@ David Eccles 商学院招聘职业发展经理兼教练，为医疗管理硕士�
 
 该职位完全在校园内工作，不符合混合或远程工作安排的条件。作为校园“关键”岗位，员工必须在犹他大学现场工作，直接支持学生、教师和工作人员。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -17488,24 +13200,6 @@ Occasional evenings or weekends to support student-facing classes and events.
 
 This position is fully on-site and not eligible for hybrid or remote work arrangements. As an “essential” campus role, the employee mustwork in person at the University of Utah to support students, faculty, and staff directly.
 
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 </details>
 
 ### [办公室与课堂支持助理](https://employment.utah.edu/salt-lake-city-ut/student-office-classroom-support-assistant/7B2C03C61787427E8E89E6AE6BCC7B19/job/)
@@ -17557,24 +13251,6 @@ David Eccles 商学院的 Professional MBA 和 Online MBA 项目招聘一名可�
 - 我们将共同制定灵活的排班，以适应您的其他安排。然而，您的可用时间和工作时间的稳定性对于确保顺利运营和及时完成任务是必要的。
 - 此职位不符合混合或远程工作条件，被视为支持教职员工、学生和潜在学生的必要校园职位，需亲自到岗。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -17621,24 +13297,6 @@ Not provided.
 - Must be able to work Mondays and Tuesdays, 5 pm-10 pm; scheduling for daytime hours is flexible.
 - We will work together to create a flexible schedule that accommodates your other commitments. However, consistency in your availability and work hours will be necessary to ensure smooth operations and timely task completion.
 - This role is not eligible for hybrid or remote work and is considered an essential campus position supporting faculty, staff, students, and prospective students in person.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>
 
@@ -17717,22 +13375,6 @@ https://publicsafety.utah.edu/safetyreport/This report includes statistics about
 
 附加信息
 
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工如果之前有URS服务，可以在退休资格（通常是第一天上班）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前退休并从URS领取月度退休福利的个人需遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视有与学生群体工作经验且坚定致力于改善高等教育入学机会的候选人。
-
-根据大学政策和犹他州法律，符合条件的申请人可享受退伍军人优先权，经请求并提供合理便利。应要求，将为残障人士在申请过程中提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，符合Title IX和34 CFR第106部分的要求。教育项目或活动中不歧视的要求延伸至招生和就业。有关Title IX及其法规适用的问题可向Title IX协调员、教育部民权办公室或两者提出。
-
-如需为残障人士请求合理便利，或如果您或您认识的人经历过歧视或性行为不端（包括性骚扰），您可以联系平等机会和Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。它还提供有关犹他大学提供的安全相关服务的信息。纸质副本可通过向位于1658 East 500 South的公共安全部索取。
-
 #### 最低资格
 
 等效性声明：1年高等教育可替代1年直接相关工作经验（例如：学士学位=4年直接相关工作经验）。需要至少1年相关经验。一年数据录入、数据操作或相关技术经验或等效课程（例如，信息系统、分析、计算机科学、商业分析）。还需要熟练使用数据录入设备，并表现出人际关系和有效的沟通技巧。申请人必须表现出能够履行职位描述中概述的基本职能的潜在能力。
@@ -17750,10 +13392,6 @@ https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、
 我们将共同制定灵活的时间表，以适应您的其他安排。然而，您在可用时间和工作时间上的一致性对于确保顺利运营和及时完成任务是必要的。
 
 此职位被视为“关键岗位”。因此，要求员工在校内现场工作。
-
-#### 补充信息
-
-未提供。
 
 <details>
 <summary>查看英文原文</summary>
@@ -17816,24 +13454,6 @@ Special Instructions Summary
 
 This posting is closed and is no longer accepting applications.
 
-Additional Information
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
-
 **Minimum Qualifications**
 
 Not provided.
@@ -17851,10 +13471,6 @@ Not provided.
 We will work together to create a flexible schedule that accommodates your other commitments. However, consistency in your availability and work hours will be necessary to ensure smooth operations and timely completion of tasks.
 
 This job is considered “essential.” Therefore, it is required that the employee work on campus, in person.
-
-**Additional Information**
-
-Not provided.
 
 </details>
 
@@ -17908,24 +13524,6 @@ Not provided.
 
 日程安排根据课程和教师需求而变化。需要每日签到，以保持与课程和学生的同步。日程围绕秋季学期制定，包括学期开始前至少两周的时间。
 
-#### 补充信息
-
-大学是犹他州退休系统（“URS”）的参与雇主。符合条件的新员工若之前有URS服务记录，可在其符合退休资格（通常为入职第一天）之前选择加入URS。如需信息，请联系人力资源部，电话：(801) 581-7447。之前已退休并从URS领取月度退休福利的个人，须遵守URS的退休后规则和限制。如有关于退休后规则的问题，请联系犹他州退休系统，电话：(801) 366-7770或(800) 695-4877，或联系大学人力资源管理部，电话：(801) 581-7447。
-
-此职位可能要求成功完成犯罪背景调查和/或药物筛查。
-
-犹他大学重视具有与学生一起工作经验的候选人，并强烈致力于改善高等教育入学机会。
-
-根据大学政策和犹他州法律，符合条件的申请人可享有退伍军人优先权，但需提出请求。申请过程中将根据请求为残障人士提供合理的便利。
-
-根据州和联邦法律，犹他大学不基于种族、民族、肤色、宗教、国籍、年龄、残疾、性别、性取向、性别认同、性别表达、怀孕、与怀孕相关的状况、遗传信息或受保护的退伍军人身份进行歧视。大学在其运营的教育项目或活动中不基于性别进行歧视，这是Title IX和34 CFR第106部分的要求。教育项目或活动中的非歧视要求延伸至招生和就业。有关Title IX及其法规适用性的咨询，可联系Title IX协调员、教育部民权办公室，或两者。
-
-如需为残障申请合理便利，或如果您或您认识的人遭遇歧视或性行为不端（包括性骚扰），可联系平等机会与Title IX办公室（OEO）的主任/Title IX协调员。更多信息，包括主任/Title IX协调员的办公室地址、电子邮件地址和电话号码，可在犹他大学非歧视页面上找到。
-
-在线报告可提交至 https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/ 此报告包含关于刑事犯罪、仇恨犯罪、逮捕和纪律处分转介以及《暴力侵害妇女法》犯罪行为的统计数据。报告还提供犹他大学提供的安全与安保相关服务信息。纸质副本可通过向位于1658 East 500 South的公共安全部请求获取。
-
 <details>
 <summary>查看英文原文</summary>
 
@@ -17964,23 +13562,5 @@ Not provided.
 **Work Schedule**
 
 Schedule varies depending on course and instructor needs. Daily check-in required to stay up to date with the course and students. Schedule built around fall term, including a minimum of two weeks prior to the start of the term.
-
-**Additional Information**
-
-The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
-
-This position may require the successful completion of a criminal background check and/or drug screen.
-
-The University of Utah values candidates who have experience working in settings with students and possess a strong commitment to improving access to higher education.
-
-Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.
-
-Consistent with state and federal law, the University of Utah does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran’s status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.
-
-To request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Title IX ( OEO ). More information, including the Director/Title IX Coordinator’s office address, electronic mail address, and telephone number can be located at the:University of Utah Non‑Discrimination page.
-
-Online reports may be submitted at https://oeo.utah.edu
-
-https://publicsafety.utah.edu/safetyreport/This report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.
 
 </details>

@@ -2,7 +2,7 @@
 
 这是 University of Utah Campus 招聘页面在 2026-08-16 的兼职岗位快照，共 122 个 `Part Time` 岗位。
 
-官网适合逐条打开，但不方便把所有岗位放在一起检索；职位详情页里大量小标题的视觉层级也很接近。这个版本把每条职位重新拆成“摘要、职责、最低资格、优先条件、申请说明、排班、补充信息”，并提供完整中文翻译和英文原文。
+官网适合逐条打开，但不方便把所有岗位放在一起检索；职位详情页里大量小标题的视觉层级也很接近。这个版本把每条职位重新拆成“摘要、职责、最低资格、优先条件、申请说明、排班”，并提供完整中文翻译和英文原文。
 
 公开版没有按任何人的具体条件删岗。本科生、研究生、有或没有 Federal Work-Study 的同学都可以在 Excel 中自己筛选。
 
@@ -15,7 +15,7 @@
 - [data/translations.zh.jsonl](data/translations.zh.jsonl)：按 GUID 保存的中文翻译。
 - [docs/filtering-and-sorting.md](docs/filtering-and-sorting.md)：字段提取、筛选和排序口径。
 - [docs/data-dictionary.md](docs/data-dictionary.md)：Excel 与 JSON 字段解释。
-- [xiaohongshu.md](xiaohongshu.md)：对应的小红书分享文案。
+- [docs/shared-notices.md](docs/shared-notices.md)：岗位通用的校级补充信息（Additional Information）。
 
 ## 数据范围
 
@@ -23,7 +23,7 @@
 - 抓取时间：2026-08-16 05:02（UTC+8）
 - 原始列表岗位：319
 - 兼职岗位：122
-- 完整中文字段：职位名、摘要、职责、最低资格、优先条件、申请说明、排班、补充信息
+- 完整中文字段：职位名、摘要、职责、最低资格、优先条件、申请说明、排班
 
 ## 重新生成
 

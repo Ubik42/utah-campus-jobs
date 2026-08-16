@@ -59,6 +59,35 @@ def clean_markdown_value(value: str) -> str:
     return clean_text(value)
 
 
+EN_ADDITIONAL_ANCHOR = "the university is a participating employer with utah retirement systems"
+
+
+def strip_shared_additional_information(text: str) -> str:
+    """Remove the university-wide Additional Information notice (URS boilerplate)
+    when its heading was not bold in the source and the notice leaked into an
+    adjacent field. The notice itself lives once in docs/shared-notices.md."""
+    if not text:
+        return text
+    index = text.casefold().find(EN_ADDITIONAL_ANCHOR)
+    if index == -1:
+        return text
+    head = text[:index]
+    head = re.sub(r"\s*\*{0,2}Additional Information\*{0,2}\s*:?\s*$", "", head, flags=re.IGNORECASE)
+    return head.strip()
+
+
+def strip_shared_additional_information_zh(text: str) -> str:
+    """Chinese counterpart of strip_shared_additional_information."""
+    if not text:
+        return text
+    match = re.search(r"(?:大学|犹他大学)是犹他州退休系统", text)
+    if not match:
+        return text
+    head = text[: match.start()]
+    head = re.sub(r"\s*补充信息\s*:?\s*$", "", head)
+    return head.strip()
+
+
 def parse_fields(description: str) -> dict[str, str]:
     """Use only known template labels as boundaries; keep bold text in body copy."""
     recognized: list[tuple[str, int, int]] = []
@@ -207,6 +236,7 @@ def build_records(raw_path: Path, translations_path: Path, departments_path: Pat
         if translation is None:
             raise ValueError(f"Missing translation: {job.get('title_exact')} ({guid})")
         fields = parse_fields(job.get("description", ""))
+        fields = {key: strip_shared_additional_information(value) for key, value in fields.items()}
         department_raw = clean_text(fields.get("Department"))
         department = departments.get(department_raw, {"zh": department_raw or "未提供", "en": department_raw or "Not provided"})
         open_date = parse_us_date(fields.get("Open Date"))
@@ -227,7 +257,6 @@ def build_records(raw_path: Path, translations_path: Path, departments_path: Pat
             ("Responsibilities", "responsibilities_zh"),
             ("Preferences", "preferences_zh"),
             ("Special Instructions Summary", "special_instructions_zh"),
-            ("Additional Information", "additional_information_zh"),
         )
         for source_label, translated_key in translated_pairs:
             if clean_text(fields.get(source_label)) and not clean_text(translation.get(translated_key)):
@@ -245,7 +274,6 @@ def build_records(raw_path: Path, translations_path: Path, departments_path: Pat
         explicitly_closed = bool(
             re.search(r"this posting is closed and is no longer accepting applications", posting_text, re.I)
         )
-        f1_hour_risk = hours_min is not None and hours_min > 20
 
         record = {
             "guid": guid,
@@ -279,22 +307,19 @@ def build_records(raw_path: Path, translations_path: Path, departments_path: Pat
             "alcohol_certificate_evidence": alcohol_evidence,
             "experience_status": exp_status,
             "experience_evidence": exp_evidence,
-            "f1_hours_risk": f1_hour_risk,
             "shift": clean_text(fields.get("Shift")),
             "work_schedule_summary_en": clean_text(fields.get("Work Schedule Summary")),
-            "work_schedule_summary_zh": translation.get("work_schedule_summary_zh", ""),
-            "job_summary_zh": translation["summary_zh"],
+            "work_schedule_summary_zh": strip_shared_additional_information_zh(translation.get("work_schedule_summary_zh", "")),
+            "job_summary_zh": strip_shared_additional_information_zh(translation["summary_zh"]),
             "job_summary_en": clean_text(fields.get("Job Summary")),
-            "minimum_qualifications_zh": translation["minimum_qualifications_zh"],
+            "minimum_qualifications_zh": strip_shared_additional_information_zh(translation["minimum_qualifications_zh"]),
             "minimum_qualifications_en": minimum_en,
-            "responsibilities_zh": translation.get("responsibilities_zh", ""),
+            "responsibilities_zh": strip_shared_additional_information_zh(translation.get("responsibilities_zh", "")),
             "responsibilities_en": clean_text(fields.get("Responsibilities")),
-            "preferences_zh": translation.get("preferences_zh", ""),
+            "preferences_zh": strip_shared_additional_information_zh(translation.get("preferences_zh", "")),
             "preferences_en": clean_text(fields.get("Preferences")),
-            "special_instructions_zh": translation.get("special_instructions_zh", ""),
+            "special_instructions_zh": strip_shared_additional_information_zh(translation.get("special_instructions_zh", "")),
             "special_instructions_en": clean_text(fields.get("Special Instructions Summary")),
-            "additional_information_zh": translation.get("additional_information_zh", ""),
-            "additional_information_en": clean_text(fields.get("Additional Information")),
             "type_of_recruitment": clean_text(fields.get("Type of Recruitment")),
             "source_updated_at": job.get("date_updated"),
         }
@@ -368,10 +393,6 @@ def render_markdown(records: list[dict[str, Any]], fetched_at: str) -> str:
                 "",
                 record["work_schedule_summary_zh"] or "未提供。",
                 "",
-                "#### 补充信息",
-                "",
-                record["additional_information_zh"] or "未提供。",
-                "",
                 "<details>",
                 "<summary>查看英文原文</summary>",
                 "",
@@ -386,8 +407,6 @@ def render_markdown(records: list[dict[str, Any]], fetched_at: str) -> str:
                 f"**Special Instructions**\n\n{record['special_instructions_en'] or 'Not provided.'}",
                 "",
                 f"**Work Schedule**\n\n{record['work_schedule_summary_en'] or 'Not provided.'}",
-                "",
-                f"**Additional Information**\n\n{record['additional_information_en'] or 'Not provided.'}",
                 "",
                 "</details>",
                 "",

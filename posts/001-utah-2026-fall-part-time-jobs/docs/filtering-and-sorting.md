@@ -23,8 +23,9 @@ Jobsyn 页面把大量小标题放在相近层级，连续阅读不方便。整�
 5. 优先条件；
 6. 申请说明；
 7. 排班安排；
-8. 补充信息；
-9. 折叠的英文原文。
+8. 折叠的英文原文。
+
+补充信息（Additional Information）是犹他大学校级通用说明，已抽到 [shared-notices.md](shared-notices.md)，不逐岗重复。
 
 中文和英文按相同字段对应，不合并、不概括。原页面没有提供的字段明确写“未提供”。
 
@@ -65,11 +66,9 @@ Open Date、Close Date 和 Priority Review Date 分列保存。Priority Review D
 
 脚本在 Minimum Qualifications、Responsibilities、Preferences 和 Special Instructions 中查找驾驶执照、Food Handler Permit 和酒类服务认证。出现 `upon hire`、`within 30/60 days`、`ability to obtain` 等表述时标记为“入职后可取得”，其他命中标记为“明确要求/需核验”。
 
-### 经验和 F-1 工时提示
+### 经验提示
 
 最低资格出现明确的 `N years ... experience` 时标记“明确要求经验年限”。教育可折抵经验的岗位仍需结合专业与折抵公式人工判断。
-
-若解析出的最低周工时超过 20，标记 `F-1 工时风险 = 是`。这只是便于国际学生初筛的保守提示，不构成学校、移民或法律意见。
 
 ## 排序方式
 
@@ -79,7 +78,7 @@ Open Date、Close Date 和 Priority Review Date 分列保存。Priority Review D
 
 ## 翻译规则
 
-- 中文字段覆盖职位名、职位摘要、工作职责、最低资格、优先条件、申请说明、排班安排和补充信息。
+- 中文字段覆盖职位名、职位摘要、工作职责、最低资格、优先条件、申请说明和排班安排。
 - 英文原文完整保留，与中文字段并列。
 - 新增长字段由本机环境变量配置的 DeepSeek API 翻译；仓库不保存 API Key。
 - 不使用公共免费翻译接口回退。DeepSeek 不可用时脚本直接报错。

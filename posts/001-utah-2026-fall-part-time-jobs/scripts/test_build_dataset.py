@@ -35,6 +35,17 @@ class ParserTests(unittest.TestCase):
         status, _ = build_dataset.requirement_status("Current Food Handler��s Permit within one month", "food")
         self.assertNotEqual(status, "未发现明确要求")
 
+    def test_shared_additional_information_is_stripped(self) -> None:
+        source = (
+            "Real special instruction.\n\nAdditional Information\n\n"
+            "The University is a participating employer with Utah Retirement Systems (URS). More text."
+        )
+        self.assertEqual(build_dataset.strip_shared_additional_information(source), "Real special instruction.")
+
+    def test_shared_additional_information_zh_is_stripped(self) -> None:
+        source = "真实申请说明。\n\n补充信息\n\n大学是犹他州退休系统（“URS”）的参与雇主。"
+        self.assertEqual(build_dataset.strip_shared_additional_information_zh(source), "真实申请说明。")
+
 
 if __name__ == "__main__":
     unittest.main()
