@@ -53,7 +53,7 @@
 
 ## 关于联邦勤工助学（Federal Work-Study）
 
-**如果你是 F-1 国际学生，这个 Federal Work-Study（FWS，联邦勤工助学）资格拿不到。** 犹他大学 ISSS 官方说明：国际学生不符合 Work-Study 资格，因为它属于联邦资助项目。
+**如果你是 F-1 国际学生，这个 Federal Work-Study（FWS，联邦勤工助学）资格拿不到。** 根据[犹他大学 ISSS 官方说明](https://isss.utah.edu/f-1-visa-program/employment/on-campus-employment/index.php)，国际学生不符合 Work-Study 资格，因为它属于联邦资助项目。
 
 招聘页面如果明确写：
 
@@ -69,13 +69,18 @@
 2. 等学校完成经济需求评估；
 3. 在 CIS 的 Financial Aid 中查看资助方案；
 4. 若方案里已有 Federal Work-Study，在 CIS 中接受该项目；
-5. 若 FAFSA 已完成但方案里没有 FWS，可提交学校的 2026–2027 Federal Work-Study 申请表请求重新考虑；
+5. 若 FAFSA 已完成但方案里没有 FWS，可提交学校的 [2026–2027 Federal Work-Study 申请表](https://financialaid.utah.edu/forms/onbase/2026-2027-federal-work-study-form.php) 请求重新考虑；
 6. 拿到 FWS Award 后才能申请 FWS 专属职位；
 7. 入职前还需由雇主向资助办公室申请 EAF；EAF 才是最终的工作资格确认。
 
 学校要求申请人具备：经济需求、就读符合条件的学位项目、保持 SAP 学业进度、至少注册一门学分课程、拥有有效 SSN，并且是美国公民或符合条件的非公民。资金有限，提交申请也不保证获批。
 
 **如果你是 F-1，应该筛选普通的校内学生职位。** F-1 学生通常可以做符合规定的校内工作，开学期间每周最多 20 小时。
+
+参考链接：
+- [F-1 校内就业（犹他大学 ISSS）](https://isss.utah.edu/f-1-visa-program/employment/on-campus-employment/index.php)
+- [Federal Work-Study 基础说明](https://financialaid.utah.edu/types-of-aid/work-study/students/basics.php)
+- [2026–2027 Federal Work-Study 申请表](https://financialaid.utah.edu/forms/onbase/2026-2027-federal-work-study-form.php)
 
 ## 数据来源
 
