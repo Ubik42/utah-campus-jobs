@@ -2,10 +2,21 @@
 
 > University of Utah 校内 **Part Time** 兼职岗位信息整理 —— 完整中文翻译、可筛选 Excel、官网原文对照，方便一次性浏览和筛选。
 
+[![中文](https://img.shields.io/badge/中文-README-1E7B1E)](README.md) [![English](https://img.shields.io/badge/English-README-1F4E79)](README.en.md)
+
 ![岗位](https://img.shields.io/badge/岗位-122个-1E7B1E) ![快照](https://img.shields.io/badge/快照-2026--08--16-1F4E79) ![License](https://img.shields.io/badge/License-MIT-808080)
+
+## 下载岗位检索表
+
+### [⬇️ 点这里下载 jobs.xlsx](jobs.xlsx)
+
+[![Download jobs.xlsx](https://img.shields.io/badge/Download-jobs.xlsx-1E7B1E?style=for-the-badge&logo=microsoftexcel&logoColor=white)](jobs.xlsx)
+
+> 122 个 26Fall 校内兼职岗位，五张表：岗位检索 · 完整中文 · 英文原文 · MEAE 国际学生省流版 · 使用说明。
 
 ## 目录
 
+- [下载岗位检索表](#下载岗位检索表)
 - [这是什么](#这是什么)
 - [快速开始](#快速开始)
 - [文件说明](#文件说明)
