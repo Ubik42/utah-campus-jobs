@@ -25,15 +25,21 @@ class XlsxTests(unittest.TestCase):
         build_xlsx.build_search_sheet(wb, self.jobs, "snapshot")
         build_xlsx.build_chinese_sheet(wb, self.jobs)
         build_xlsx.build_english_sheet(wb, self.jobs)
+        build_xlsx.build_intl_sheet(wb, self.jobs, "snapshot")
         build_xlsx.build_manual_sheet(wb, self.jobs)
         return wb
 
-    def test_four_sheets_and_data_rows(self) -> None:
+    def test_sheets_and_data_rows(self) -> None:
         wb = self.build()
-        self.assertEqual(wb.sheetnames, ["岗位检索", "完整中文", "英文原文", "使用说明"])
+        self.assertEqual(
+            wb.sheetnames,
+            ["岗位检索", "完整中文", "英文原文", "MEAE国际学生省流版", "使用说明"],
+        )
         self.assertEqual(wb["岗位检索"].max_row, 4 + self.count)
         self.assertEqual(wb["完整中文"].max_row, 4 + self.count)
         self.assertEqual(wb["英文原文"].max_row, 4 + self.count)
+        eligible = sum(1 for r in self.jobs if r["work_study_status"] != "必需" and not r["undergraduate_only"])
+        self.assertEqual(wb["MEAE国际学生省流版"].max_row, 4 + eligible)
 
     def test_search_sheet_headers_and_filter(self) -> None:
         wb = self.build()

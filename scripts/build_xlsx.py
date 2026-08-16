@@ -284,6 +284,51 @@ def build_manual_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]]) -> None:
     _set_widths(ws, [(1, 16), (2, 40), (3, 60), (4, 20), (5, 20), (6, 20)])
 
 
+def _intl_flags(r: dict[str, Any]) -> str:
+    flags: list[str] = []
+    if r["explicitly_closed_in_posting_text"]:
+        flags.append("已关闭")
+    if r["driver_license_status"] == "明确要求/需核验":
+        flags.append("需驾照")
+    elif r["driver_license_status"] == "入职后可取得":
+        flags.append("驾照可后考")
+    if r["food_handler_status"] == "明确要求/需核验":
+        flags.append("需食品证")
+    elif r["food_handler_status"] == "入职后可取得":
+        flags.append("食品证可后考")
+    if r["experience_status"] == "明确要求经验年限":
+        flags.append("需经验")
+    if r["extra_requirements"]:
+        flags.append(r["extra_requirements"])
+    return "；".join(flags)
+
+
+def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: str) -> None:
+    """MEAE 国际学生省流版：排除必须联邦勤工助学（FWS）和仅限本科的岗位，只留关键列。"""
+    ws = wb.create_sheet("MEAE国际学生省流版")
+    headers = ["序号", "职位", "部门", "每周工时", "时薪", "截止日期", "注意"]
+    eligible = [r for r in jobs if r["work_study_status"] != "必需" and not r["undergraduate_only"]]
+    excluded = len(jobs) - len(eligible)
+    _style_title(ws, len(headers), "MEAE 国际学生省流版",
+                 f"面向 MEAE 硕士国际学生（F-1）· 已排除 {excluded} 个必须勤工助学或仅限本科的岗位 · 快照 {fetched_at}")
+    _style_header(ws, headers)
+    # 截止日期近的在前，未提供截止日期的排最后
+    ordered = sorted(eligible, key=lambda r: (r["close_date"] is None, r["close_date"] or ""))
+    rows = []
+    for index, r in enumerate(ordered, 1):
+        pay = r["minimum_hourly_pay"]
+        pay_text = ("$%g" % pay) if pay is not None else (r["pay_rate_text"] or "")
+        rows.append([
+            index, r["title_zh"], r["department_zh"],
+            r["standard_hours_text"], pay_text, r["close_date"],
+            _intl_flags(r),
+        ])
+    _write_rows(ws, rows, wrap_cols={2, 3, 7})
+    _link_title(ws, ordered, title_col=2)
+    ws.auto_filter.ref = f"A4:{ws.cell(row=ws.max_row, column=len(headers)).coordinate}"
+    _set_widths(ws, [(1, 6), (2, 30), (3, 22), (4, 14), (5, 10), (6, 11), (7, 40)])
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     root = Path(__file__).resolve().parents[1]
@@ -299,6 +344,7 @@ def main() -> None:
     build_search_sheet(wb, jobs, fetched_at)
     build_chinese_sheet(wb, jobs)
     build_english_sheet(wb, jobs)
+    build_intl_sheet(wb, jobs, fetched_at)
     build_manual_sheet(wb, jobs)
 
     assert len(jobs) == dataset["job_count"]
