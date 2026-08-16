@@ -40,9 +40,15 @@ class XlsxTests(unittest.TestCase):
         ws = wb["岗位检索"]
         headers = [cell.value for cell in ws[4]]
         self.assertEqual(headers[0], "序号")
-        self.assertEqual(headers[3], "中文职位")
-        self.assertEqual(headers[-1], "GUID")
+        self.assertEqual(headers[2], "中文职位")
+        self.assertEqual(headers[-2:], ["英文部门", "英文职位"])
+        self.assertIn("GUID", headers)
         self.assertIsNotNone(ws.auto_filter.ref)
+
+    def test_status_emoji_mapping(self) -> None:
+        self.assertEqual(build_xlsx._status_emoji("必需"), "✅")
+        self.assertEqual(build_xlsx._status_emoji("入职后可取得"), "🟡")
+        self.assertEqual(build_xlsx._status_emoji("未发现明确要求"), "❌")
 
     def test_manual_sheet_stats_match_data(self) -> None:
         wb = self.build()

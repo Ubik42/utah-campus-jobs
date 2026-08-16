@@ -31,6 +31,24 @@ def _yes_no(value: bool) -> str:
     return "是" if value else "否"
 
 
+_STATUS_EMOJI = {
+    "是": "✅",
+    "否": "❌",
+    "必需": "✅",
+    "可选/非必需": "🟡",
+    "未明确要求": "❌",
+    "明确要求/需核验": "✅",
+    "入职后可取得": "🟡",
+    "未发现明确要求": "❌",
+    "明确要求经验年限": "✅",
+    "未发现明确年限": "❌",
+}
+
+
+def _status_emoji(status: str) -> str:
+    return _STATUS_EMOJI.get(status, status)
+
+
 def _style_title(ws: Worksheet, ncols: int, title: str, subtitle: str) -> None:
     ws.merge_cells(start_row=1, start_column=1, end_row=1, end_column=ncols)
     ws.cell(row=1, column=1, value=title)
@@ -86,11 +104,11 @@ def build_search_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at:
     ws = wb.active
     ws.title = "岗位检索"
     headers = [
-        "序号", "中文部门", "英文部门", "中文职位", "英文职位",
-        "开放日期", "截止日期", "优先审查日", "每周标准工时", "最低周工时", "最高周工时",
-        "薪资原文", "最低时薪", "最高时薪", "Work-Study", "本科生限定",
-        "驾照", "食品处理员许可证", "酒类服务证书", "经验要求",
-        "页面明确关闭", "班次", "Requisition Number", "GUID",
+        "序号", "中文部门", "中文职位", "开放日期", "截止日期", "优先审查日",
+        "每周标准工时", "最低周工时", "最高周工时", "薪资原文", "最低时薪", "最高时薪",
+        "Work-Study", "本科生限定", "驾照", "食品处理员许可证", "酒类服务证书",
+        "经验要求", "页面明确关闭", "班次", "Requisition Number", "GUID",
+        "英文部门", "英文职位",
     ]
     _style_title(ws, len(headers), "犹他大学 2026 Fall 校内兼职检索表",
                  f"共 {len(jobs)} 个兼职岗位 · 快照 {fetched_at} · 全量保留，不按个人身份或具体申请日期删岗")
@@ -98,24 +116,30 @@ def build_search_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at:
     rows = []
     for index, r in enumerate(jobs, 1):
         rows.append([
-            index, r["department_zh"], r["department_en"], r["title_zh"], r["title_en"],
+            index, r["department_zh"], r["title_zh"],
             r["open_date"], r["close_date"], r["priority_review_date"],
             r["standard_hours_text"], r["minimum_weekly_hours"], r["maximum_weekly_hours"],
             r["pay_rate_text"], r["minimum_hourly_pay"], r["maximum_hourly_pay"],
-            r["work_study_status"], _yes_no(r["undergraduate_only"]),
-            r["driver_license_status"], r["food_handler_status"], r["alcohol_certificate_status"],
-            r["experience_status"], _yes_no(r["explicitly_closed_in_posting_text"]),
-            r["shift"], r["requisition_number"], r["guid"],
+            _status_emoji(r["work_study_status"]),
+            _status_emoji(_yes_no(r["undergraduate_only"])),
+            _status_emoji(r["driver_license_status"]),
+            _status_emoji(r["food_handler_status"]),
+            _status_emoji(r["alcohol_certificate_status"]),
+            _status_emoji(r["experience_status"]),
+            _status_emoji(_yes_no(r["explicitly_closed_in_posting_text"])),
+            r["shift"],
+            r["requisition_number"], r["guid"],
+            r["department_en"], r["title_en"],
         ])
-    _write_rows(ws, rows, wrap_cols={2, 3, 4, 5})
-    _link_title(ws, jobs, title_col=4)
+    _write_rows(ws, rows, wrap_cols={2, 3, 23, 24})
+    _link_title(ws, jobs, title_col=3)
     ws.auto_filter.ref = f"A4:{ws.cell(row=ws.max_row, column=len(headers)).coordinate}"
     _set_widths(ws, [
-        (1, 6), (2, 22), (3, 30), (4, 34), (5, 30),
-        (6, 11), (7, 11), (8, 11), (9, 14), (10, 10), (11, 10),
-        (12, 12), (13, 9), (14, 9), (15, 12), (16, 10),
-        (17, 14), (18, 16), (19, 14), (20, 14), (21, 11),
-        (22, 10), (23, 13), (24, 34),
+        (1, 6), (2, 22), (3, 34), (4, 11), (5, 11), (6, 11),
+        (7, 14), (8, 10), (9, 10), (10, 12), (11, 9), (12, 9),
+        (13, 11), (14, 10), (15, 8), (16, 14), (17, 11),
+        (18, 10), (19, 11), (20, 10), (21, 13), (22, 34),
+        (23, 30), (24, 30),
     ])
 
 
@@ -198,13 +222,27 @@ def build_manual_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]]) -> None:
 
     row += 2
     ws.merge_cells(start_row=row, start_column=1, end_row=row, end_column=ncols)
+    ws.cell(row=row, column=1, value="状态图例").font = Font(bold=True)
+    row += 1
+    legend = [
+        ("✅", "是 / 必需 / 明确要求"),
+        ("🟡", "可选 / 入职后可取得"),
+        ("❌", "否 / 未发现（未发现不代表确认无要求）"),
+    ]
+    for mark, meaning in legend:
+        ws.cell(row=row, column=1, value=mark)
+        ws.cell(row=row, column=2, value=meaning)
+        row += 1
+
+    row += 2
+    ws.merge_cells(start_row=row, start_column=1, end_row=row, end_column=ncols)
     ws.cell(row=row, column=1, value="建议用法").font = Font(bold=True)
     row += 1
     usage = [
         ("1", "先看岗位检索", "按自己的申请日期、身份、工时、薪资和证照条件筛选，不使用预设个人档案。"),
         ("2", "再读完整中文", "逐栏查看摘要、职责、最低资格、优先条件、申请说明和排班。"),
         ("3", "核对英文原文", "中文翻译用于快速阅读；涉及资格、证照、日期和申请材料时回英文列核对。"),
-        ("4", "打开职位链接", "标题即为官网链接，直接点击；快照不是实时页面，正式申请前确认仍开放。"),
+        ("4", "打开职位链接", "中文职位名即为官网链接，直接点击；快照不是实时页面，正式申请前确认仍开放。"),
         ("5", "自行排序", "可按截止日期、最低时薪、最低周工时、部门或任何资格标签重新排序。"),
     ]
     for num, label, desc in usage:
@@ -218,9 +256,9 @@ def build_manual_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]]) -> None:
     ws.cell(row=row, column=1, value="标签口径").font = Font(bold=True)
     row += 1
     notes = [
-        ("未发现明确要求", "仅表示自动规则没有识别到，不是学校确认没有。"),
-        ("本科生限定 = 否", "表示没有发现明确限定，不代表研究生一定符合。"),
-        ("页面明确关闭", "正文写明不再接受申请，即使截止日期在未来也先跳过。"),
+        ("❌ 未发现明确要求", "仅表示自动规则没有识别到，不是学校确认没有。"),
+        ("❌ 本科生限定 = 否", "表示没有发现明确限定，不代表研究生一定符合。"),
+        ("✅ 页面明确关闭", "正文写明不再接受申请，即使截止日期在未来也先跳过。"),
         ("教育折抵经验", "仍需结合专业和职位给出的折抵公式判断。"),
         ("翻译", "完整中文由 AI 辅助生成；申请前以英文原文为准。"),
     ]
@@ -229,7 +267,7 @@ def build_manual_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]]) -> None:
         ws.cell(row=row, column=2, value=desc)
         row += 1
 
-    _set_widths(ws, [(1, 16), (2, 18), (3, 60), (4, 20), (5, 20), (6, 20)])
+    _set_widths(ws, [(1, 16), (2, 40), (3, 60), (4, 20), (5, 20), (6, 20)])
 
 
 def main() -> None:
