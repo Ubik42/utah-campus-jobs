@@ -54,7 +54,7 @@
 | `data/raw/jobsyn-campus-2026-08-16.json` | 招聘列表接口原始快照 |
 | `data/translations.zh.jsonl` | 按 GUID 保存的中文翻译 |
 | `data/extra-requirements.json` | 人工标注的硬性额外要求（证书、语言、学历等） |
-| `data/core-skills.json` | 人工标注的核心能力（摄影、剪辑、设计、编程等） |
+| `data/job-descriptions.json` | 人工标注的大白话工作内容（一句话说明岗位是干什么的） |
 | `docs/filtering-and-sorting.md` | 字段提取、筛选与排序口径 |
 | `docs/data-dictionary.md` | Excel 与 JSON 字段解释 |
 | `docs/shared-notices.md` | 岗位通用的校级补充信息（Additional Information） |
@@ -118,7 +118,7 @@
 - **经验要求**：明确要求经验年限 / 未发现明确年限。
 - **页面明确关闭**：正文是否已写「不再接受申请」。
 - **额外要求**：正文里的硬性门槛（语言、证书、学历、软件、体力、年龄等），人工标注于 `data/extra-requirements.json`。
-- **核心能力**：岗位希望应聘者具备的能力/技能（摄影、剪辑、设计、编程、教学等），非硬门槛，人工标注于 `data/core-skills.json`。
+- **工作内容**：岗位是干什么的（大白话一句话），人工标注于 `data/job-descriptions.json`。
 - **需公民身份**（JSON 字段 `requires_citizenship`）：正文是否要求美国公民 / 国民 / 合法永久居民 —— 对 F-1 国际学生是硬性排除项。
 
 「MEAE国际学生省流版」是给 MEAE 硕士 + F-1 国际学生的精简页，自动排除四类岗位：

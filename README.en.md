@@ -54,7 +54,7 @@ The public version does not remove jobs based on any individual's identity or ap
 | `data/raw/jobsyn-campus-2026-08-16.json` | Raw snapshot from the job-list API |
 | `data/translations.zh.jsonl` | Chinese translations keyed by GUID |
 | `data/extra-requirements.json` | Curated hard requirements (certificates, language, degree, etc.) |
-| `data/core-skills.json` | Curated core abilities (photography, editing, design, programming, etc.) |
+| `data/job-descriptions.json` | Curated plain-language job descriptions (one line on what the job actually does) |
 | `docs/filtering-and-sorting.md` | Field extraction, filtering and sorting rules (Chinese) |
 | `docs/data-dictionary.md` | Excel and JSON field glossary (Chinese) |
 | `docs/shared-notices.md` | University-wide Additional Information boilerplate (Chinese) |
@@ -73,7 +73,7 @@ The public version does not remove jobs based on any individual's identity or ap
    - **Food handler permit**: relatively easy to get (a short online course + small fee); many jobs allow you to obtain it after hire (🟡).
    - **Experience**: ✅ = explicit years of experience required; "education may substitute for experience" still needs your own judgment.
    - **Extra requirements**: hard requirements from the posting text (language, certificates, degree, software, physical, age, etc.).
-   - **Core skills**: abilities the job hopes you have (photography, editing, design, programming, teaching, etc.) — not a hard gate.
+   - **Job description**: what the job actually does, in plain language — curated in `data/job-descriptions.json`.
 5. **Two dates**: open date and close date. A posting that says it is closed should be skipped even if its close date hasn't passed (see #2).
 6. **Hours and pay**: hours are parsed values (e.g. `0-19`, `up to 10`); `DOE` or annual salaries are not converted to hourly.
 7. **Background check**: some jobs require a background check / drug screen; see [`docs/shared-notices.md`](docs/shared-notices.md).
@@ -120,7 +120,7 @@ The **岗位检索 (Search)** sheet labels each job with a set of eligibility ta
 - **Page explicitly closed**: whether the posting text says it is no longer accepting applications.
 - **Extra requirements**: hard requirements from the text (language, certificates, degree, software, physical, age, etc.), curated in `data/extra-requirements.json`.
 - **Citizenship required** (JSON field `requires_citizenship`): whether the posting requires U.S. citizen / national / lawful permanent resident — a hard exclusion for F-1 students.
-- **Core skills**: abilities the job hopes you have, curated in `data/core-skills.json`.
+- **Job description**: what the job actually does in plain language, curated in `data/job-descriptions.json`.
 
 The **MEAE国际学生省流版 (MEAE Intl TL;DR)** sheet is a condensed view for MEAE master's + F-1 international students. It automatically excludes four kinds of jobs:
 
