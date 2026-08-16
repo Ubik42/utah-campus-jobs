@@ -304,7 +304,7 @@ def _intl_flags(r: dict[str, Any]) -> str:
 def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: str) -> None:
     """MEAE 国际学生省流版：排除必须联邦勤工助学（FWS）、仅限本科、已关闭、需公民身份的岗位。"""
     ws = wb.create_sheet("MEAE国际学生省流版")
-    headers = ["序号", "职位", "部门", "每周工时", "时薪", "截止日期", "注意"]
+    headers = ["序号", "职位", "核心能力", "部门", "每周工时", "时薪", "截止日期", "注意"]
     eligible = [
         r for r in jobs
         if r["work_study_status"] != "必需"
@@ -323,14 +323,14 @@ def build_intl_sheet(wb: Workbook, jobs: Sequence[dict[str, Any]], fetched_at: s
         pay = r["minimum_hourly_pay"]
         pay_text = ("$%g" % pay) if pay is not None else (r["pay_rate_text"] or "")
         rows.append([
-            index, r["title_zh"], r["department_zh"],
+            index, r["title_zh"], r["core_skills"], r["department_zh"],
             r["standard_hours_text"], pay_text, r["close_date"],
             _intl_flags(r),
         ])
-    _write_rows(ws, rows, wrap_cols={2, 3, 7})
+    _write_rows(ws, rows, wrap_cols={2, 3, 4, 8})
     _link_title(ws, ordered, title_col=2)
     ws.auto_filter.ref = f"A4:{ws.cell(row=ws.max_row, column=len(headers)).coordinate}"
-    _set_widths(ws, [(1, 6), (2, 30), (3, 22), (4, 14), (5, 10), (6, 11), (7, 40)])
+    _set_widths(ws, [(1, 6), (2, 26), (3, 20), (4, 20), (5, 14), (6, 10), (7, 11), (8, 40)])
 
 
 def main() -> None:

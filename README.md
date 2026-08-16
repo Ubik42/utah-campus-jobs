@@ -2,13 +2,27 @@
 
 > University of Utah 校内 **Part Time** 兼职岗位信息整理 —— 完整中文翻译、可筛选 Excel、官网原文对照，方便一次性浏览和筛选。
 
+![岗位](https://img.shields.io/badge/岗位-122个-1E7B1E) ![快照](https://img.shields.io/badge/快照-2026--08--16-1F4E79) ![License](https://img.shields.io/badge/License-MIT-808080)
+
+## 目录
+
+- [这是什么](#这是什么)
+- [快速开始](#快速开始)
+- [文件说明](#文件说明)
+- [申请注意事项](#申请注意事项)
+- [关于联邦勤工助学（Federal Work-Study）](#关于联邦勤工助学federal-work-study)
+- [筛选口径（供重新分析参考）](#筛选口径供重新分析参考)
+- [数据来源](#数据来源)
+- [重新生成](#重新生成)
+- [许可](#许可)
+
 ## 这是什么
 
 官网招聘页面适合逐条打开，但没法把所有岗位放一起检索，详情页里大量小标题的视觉层级也很接近。这个仓库把 University of Utah Campus 招聘页面在 **2026-08-16** 的兼职岗位快照抓取下来，整理成：
 
 - **122 个 Part Time 兼职岗位**，每个岗位按「摘要 / 职责 / 最低资格 / 优先条件 / 申请说明 / 排班」统一拆分；
 - 完整中文翻译，英文原文并列保留，方便对照；
-- 一份可筛选的 Excel（岗位检索表），可按部门、日期、工时、薪资、Work-Study、本科生限定、驾照、食品证、酒类证、经验等条件筛选。
+- 一份可筛选的 Excel（岗位检索表），可按部门、日期、工时、薪资、Work-Study、本科生限定、驾照、食品证、经验等条件筛选。
 
 公开版不按任何人的身份或申请日期删岗。本科生、研究生、有或没有 Federal Work-Study 的同学，都能按自己的条件筛。
 
@@ -29,6 +43,7 @@
 | `data/raw/jobsyn-campus-2026-08-16.json` | 招聘列表接口原始快照 |
 | `data/translations.zh.jsonl` | 按 GUID 保存的中文翻译 |
 | `data/extra-requirements.json` | 人工标注的硬性额外要求（证书、语言、学历等） |
+| `data/core-skills.json` | 人工标注的核心能力（摄影、剪辑、设计、编程等） |
 | `docs/filtering-and-sorting.md` | 字段提取、筛选与排序口径 |
 | `docs/data-dictionary.md` | Excel 与 JSON 字段解释 |
 | `docs/shared-notices.md` | 岗位通用的校级补充信息（Additional Information） |
@@ -92,6 +107,7 @@
 - **经验要求**：明确要求经验年限 / 未发现明确年限。
 - **页面明确关闭**：正文是否已写「不再接受申请」。
 - **额外要求**：正文里的硬性门槛（语言、证书、学历、软件、体力、年龄等），人工标注于 `data/extra-requirements.json`。
+- **核心能力**：岗位希望应聘者具备的能力/技能（摄影、剪辑、设计、编程、教学等），非硬门槛，人工标注于 `data/core-skills.json`。
 - **需公民身份**（JSON 字段 `requires_citizenship`）：正文是否要求美国公民 / 国民 / 合法永久居民 —— 对 F-1 国际学生是硬性排除项。
 
 「MEAE国际学生省流版」是给 MEAE 硕士 + F-1 国际学生的精简页，自动排除四类岗位：
